@@ -115,35 +115,25 @@
 
 <div class="container-fluid main">
     <div class="row">
+
+        <div class="row" id="toprow">
+            <div class="col-xs-12" align="center">
+                <h2>Dutch Musuems</h2>
+            </div>
+        </div>
+
+
         <div class="col-xs-12 col-md-12">
 
-            <div class="row" id="toprow">
-                <div class="col-xs-12" align="center">
-                    <h2>Dutch Musuems</h2>
-                </div>
-            </div>
 
             <div class="row row-map" id="midrow">
-                <div class="col-xs-8 col-sm-8 col-md-8">
+                <div class="col-xs-12 col-sm-12 col-md-12">
                     <!-- Bootstrap-map-js -->
                     <div id="maincontainer">
                         <div id="map" style="height: 600px"></div>
-
-
                     </div>
                 </div>
-                <div class="col-xs-4 col-sm-4 col-md-4">
-                    <div class="row" id="middlerow">
-                        <div class="col-xs-12 col-sm-12 col-md-12" id="calendar"></div>
-                        <div class="col-xs-12 col-sm-12 col-md-12" id="barchart"></div>
-                        <div class="row" id = "pierow">
-                            <div class="col-xs-6 col-sm-6 col-md-6" id="piechart_gender"></div>
-                            <div class="col-xs-6 col-sm-6 col-md-6" id="piechart_style"></div>
-                        </div>
-
-                    </div>
-                </div>
-
+                
                 <div class="row" id="bottomrow">
                     <div class="col-xs-12 col-sm-12 col-md-12"></div>
                 </div>
@@ -218,7 +208,6 @@
 
     map.on('load', function () {
 
-        
 
         d3.json('data/musuem_list.geojson', function (err, data) {
 

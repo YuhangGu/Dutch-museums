@@ -43,7 +43,7 @@ fs.readFile('data/museums.json', 'utf8', function (err, museumsdata) {
 
         if(stringlink != "")
         {
-            console.log(lat_string,log_string);
+            console.log(lat_string,log_string, index++);
 
 
             var item = {
