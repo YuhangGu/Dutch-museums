@@ -166,16 +166,23 @@
                     'marker-color': '#46b39d'
                 }
             }).addTo(map);
+
+            /*
+            marker.eachLayer(function(m) {
+                m.openPopup();
+            });
+            */
+
         });
+
+
 
     });
 
 
     // Iterate over the featureLayer we've called "marker"
     // and open its popup instead of clicking to trigger it.
-    marker.eachLayer(function(m) {
-        m.openPopup();
-    });
+
 
 
 </script>

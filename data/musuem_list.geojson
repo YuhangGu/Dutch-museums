@@ -7,7 +7,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Heksenwaag OUDEWATER"
+                "name": "Heksenwaag OUDEWATER",
+                "website": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -20,7 +21,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Jenevermuseum SCHIEDAM"
+                "name": "Jenevermuseum SCHIEDAM",
+                "website": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -33,7 +35,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dolhuys, museum van de geest HAARLEM"
+                "name": "Dolhuys, museum van de geest HAARLEM",
+                "website": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +49,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mariniersmuseum ROTTERDAM"
+                "name": "Mariniersmuseum ROTTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -59,7 +63,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stadsmuseum Steenwijk STEENWIJK"
+                "name": "Stadsmuseum Steenwijk STEENWIJK",
+                "website": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -72,7 +77,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Titus Brandsma Museum BOLSWARD"
+                "name": "Titus Brandsma Museum BOLSWARD",
+                "website": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +91,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Het Nieuwe Instituut ROTTERDAM"
+                "name": "Het Nieuwe Instituut ROTTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -98,7 +105,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Jan van der Togt AMSTELVEEN"
+                "name": "Museum Jan van der Togt AMSTELVEEN",
+                "website": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +119,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Instituut Collectie Krop STEENWIJK"
+                "name": "Instituut Collectie Krop STEENWIJK",
+                "website": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +133,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum 'De Tien Malen' PUTTEN"
+                "name": "Museum 'De Tien Malen' PUTTEN",
+                "website": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +147,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum de Fundatie ZWOLLE"
+                "name": "Museum de Fundatie ZWOLLE",
+                "website": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -150,7 +161,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stichting De Nollen DEN HELDER"
+                "name": "Stichting De Nollen DEN HELDER",
+                "website": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +175,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum de Kantfabriek HORST"
+                "name": "Museum de Kantfabriek HORST",
+                "website": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +189,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Dorestad WIJK BIJ DUURSTEDE"
+                "name": "Museum Dorestad WIJK BIJ DUURSTEDE",
+                "website": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -189,7 +203,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Volkenkunde LEIDEN"
+                "name": "Museum Volkenkunde LEIDEN",
+                "website": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -202,7 +217,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Techniekmuseum HEIM HENGELO"
+                "name": "Techniekmuseum HEIM HENGELO",
+                "website": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +231,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Hindeloopen HINDELOOPEN"
+                "name": "Museum Hindeloopen HINDELOOPEN",
+                "website": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -228,7 +245,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "SCHUNCK HEERLEN"
+                "name": "SCHUNCK HEERLEN",
+                "website": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -241,7 +259,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Streekmuseum-Volkssterrenwacht Burgum BURGUM"
+                "name": "Streekmuseum-Volkssterrenwacht Burgum BURGUM",
+                "website": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +273,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Haarlem HAARLEM"
+                "name": "Museum Haarlem HAARLEM",
+                "website": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +287,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "DAF Museum EINDHOVEN"
+                "name": "DAF Museum EINDHOVEN",
+                "website": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -280,7 +301,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Huis Verwolde LAREN"
+                "name": "Huis Verwolde LAREN",
+                "website": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +315,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Gemeentemuseum Den Haag DEN HAAG"
+                "name": "Gemeentemuseum Den Haag DEN HAAG",
+                "website": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +329,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Bronbeek ARNHEM"
+                "name": "Museum Bronbeek ARNHEM",
+                "website": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -319,7 +343,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "De Casteelse Poort WAGENINGEN"
+                "name": "De Casteelse Poort WAGENINGEN",
+                "website": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +357,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Zoutmuseum DELDEN"
+                "name": "Zoutmuseum DELDEN",
+                "website": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -345,7 +371,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Noord-Veluws Museum NUNSPEET"
+                "name": "Noord-Veluws Museum NUNSPEET",
+                "website": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -358,7 +385,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Landbouw-Juttersmuseum 'Swartwoude' BUREN-AMELAND"
+                "name": "Landbouw-Juttersmuseum 'Swartwoude' BUREN-AMELAND",
+                "website": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -371,7 +399,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Brabants Museum Oud Oosterhout OOSTERHOUT"
+                "name": "Brabants Museum Oud Oosterhout OOSTERHOUT",
+                "website": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +413,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stedelijk Museum Amsterdam AMSTERDAM"
+                "name": "Stedelijk Museum Amsterdam AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +427,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cultuur-Historisch Museum Sorgdrager HOLLUM-AMELAND"
+                "name": "Cultuur-Historisch Museum Sorgdrager HOLLUM-AMELAND",
+                "website": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +441,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Streekmuseum Krimpenerwaard KRIMPEN A/D  IJSSEL"
+                "name": "Streekmuseum Krimpenerwaard KRIMPEN A/D  IJSSEL",
+                "website": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +455,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Verzetsmuseum Amsterdam AMSTERDAM"
+                "name": "Verzetsmuseum Amsterdam AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -436,7 +469,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum In 't Houten Huis DE RIJP"
+                "name": "Museum In 't Houten Huis DE RIJP",
+                "website": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -449,7 +483,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cromhouthuis │ Bijbels Museum AMSTERDAM"
+                "name": "Cromhouthuis │ Bijbels Museum AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -462,7 +497,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Stad Appingedam APPINGEDAM"
+                "name": "Museum Stad Appingedam APPINGEDAM",
+                "website": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -475,7 +511,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Natuurmuseum Nijmegen NIJMEGEN"
+                "name": "Natuurmuseum Nijmegen NIJMEGEN",
+                "website": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -488,7 +525,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Kasteel Hernen HERNEN"
+                "name": "Kasteel Hernen HERNEN",
+                "website": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -501,7 +539,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nederlands Openluchtmuseum ARNHEM"
+                "name": "Nederlands Openluchtmuseum ARNHEM",
+                "website": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -514,7 +553,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "de Appel arts centre AMSTERDAM"
+                "name": "de Appel arts centre AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -527,7 +567,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museumstoomtram Hoorn-Medemblik HOORN"
+                "name": "Museumstoomtram Hoorn-Medemblik HOORN",
+                "website": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -540,7 +581,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Hermitage Amsterdam AMSTERDAM"
+                "name": "Hermitage Amsterdam AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -553,7 +595,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nationaal Reddingmuseum Dorus Rijkers DEN HELDER"
+                "name": "Nationaal Reddingmuseum Dorus Rijkers DEN HELDER",
+                "website": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -566,7 +609,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Schokland SCHOKLAND"
+                "name": "Museum Schokland SCHOKLAND",
+                "website": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +623,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Portugese Synagoge Amsterdam AMSTERDAM"
+                "name": "Portugese Synagoge Amsterdam AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -592,7 +637,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Koninklijk Paleis Amsterdam AMSTERDAM"
+                "name": "Koninklijk Paleis Amsterdam AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -605,7 +651,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Katwijks Museum KATWIJK AAN ZEE"
+                "name": "Katwijks Museum KATWIJK AAN ZEE",
+                "website": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -618,7 +665,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Maritiem Centrum \"Abraham Fock\" HOLLUM-AMELAND"
+                "name": "Maritiem Centrum \"Abraham Fock\" HOLLUM-AMELAND",
+                "website": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -631,7 +679,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Kasteel Hoensbroek HOENSBROEK"
+                "name": "Kasteel Hoensbroek HOENSBROEK",
+                "website": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -644,7 +693,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Amsterdam Pipe Museum AMSTERDAM"
+                "name": "Amsterdam Pipe Museum AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -657,7 +707,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Bredius DEN HAAG"
+                "name": "Museum Bredius DEN HAAG",
+                "website": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -670,7 +721,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nationaal Archief DEN HAAG"
+                "name": "Nationaal Archief DEN HAAG",
+                "website": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -683,7 +735,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Heerenveen Museum  HEERENVEEN"
+                "name": "Heerenveen Museum  HEERENVEEN",
+                "website": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -696,7 +749,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Bussemakerhuis BORNE"
+                "name": "Museum Bussemakerhuis BORNE",
+                "website": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -709,7 +763,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "GeoFort HERWIJNEN"
+                "name": "GeoFort HERWIJNEN",
+                "website": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -722,7 +777,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stedelijk Museum 's Hertogenbosch 'S HERTOGENBOSCH"
+                "name": "Stedelijk Museum 's Hertogenbosch 'S HERTOGENBOSCH",
+                "website": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -735,7 +791,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Nijkerk NIJKERK"
+                "name": "Museum Nijkerk NIJKERK",
+                "website": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -748,7 +805,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Rotterdam  ROTTERDAM"
+                "name": "Museum Rotterdam  ROTTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -761,7 +819,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "De Looierij DONGEN"
+                "name": "De Looierij DONGEN",
+                "website": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -774,7 +833,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Het Noordbrabants Museum 'S HERTOGENBOSCH"
+                "name": "Het Noordbrabants Museum 'S HERTOGENBOSCH",
+                "website": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -787,7 +847,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rotterdams Radio Museum ROTTERDAM"
+                "name": "Rotterdams Radio Museum ROTTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -800,7 +861,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum De Wieger DEURNE"
+                "name": "Museum De Wieger DEURNE",
+                "website": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -813,7 +875,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nederlands Volksbuurtmuseum UTRECHT"
+                "name": "Nederlands Volksbuurtmuseum UTRECHT",
+                "website": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -826,7 +889,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Kasteel Heeswijk HEESWIJK-DINTHER"
+                "name": "Kasteel Heeswijk HEESWIJK-DINTHER",
+                "website": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -839,7 +903,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Teylers Museum HAARLEM"
+                "name": "Teylers Museum HAARLEM",
+                "website": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -852,7 +917,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Huis Zypendaal ARNHEM"
+                "name": "Huis Zypendaal ARNHEM",
+                "website": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -865,7 +931,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Natura Docet Wonderryck Twente DENEKAMP"
+                "name": "Natura Docet Wonderryck Twente DENEKAMP",
+                "website": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -878,7 +945,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Micropia AMSTERDAM"
+                "name": "Micropia AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -891,7 +959,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Kempenmuseum De Acht Zaligheden EERSEL"
+                "name": "Kempenmuseum De Acht Zaligheden EERSEL",
+                "website": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -904,7 +973,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nationaal Vlasserij-Suikermuseum KLUNDERT"
+                "name": "Nationaal Vlasserij-Suikermuseum KLUNDERT",
+                "website": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -917,7 +987,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Museum Willet-Holthuysen AMSTERDAM"
+                "name": "Museum Willet-Holthuysen AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -930,7 +1001,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Touwmuseum 'De Baanschuur' OUDEWATER"
+                "name": "Touwmuseum 'De Baanschuur' OUDEWATER",
+                "website": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -943,7 +1015,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Natuurhistorisch Museum Maastricht MAASTRICHT"
+                "name": "Natuurhistorisch Museum Maastricht MAASTRICHT",
+                "website": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -956,7 +1029,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stadsmuseum Doetinchem DOETINCHEM"
+                "name": "Stadsmuseum Doetinchem DOETINCHEM",
+                "website": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -969,7 +1043,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cube Design Museum KERKRADE"
+                "name": "Cube Design Museum KERKRADE",
+                "website": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -982,7 +1057,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Tassenmuseum Hendrikje AMSTERDAM"
+                "name": "Tassenmuseum Hendrikje AMSTERDAM",
+                "website": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -995,7 +1071,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Collectie Brands NIEUW DORDRECHT"
+                "name": "Collectie Brands NIEUW DORDRECHT",
+                "website": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx"
             },
             "geometry": {
                 "type": "Point",
@@ -1008,7 +1085,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Biesbosch MuseumEiland WERKENDAM"
+                "name": "Biesbosch MuseumEiland WERKENDAM",
+                "website": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx"
             },
             "geometry": {
                 "type": "Point",

@@ -1,7 +1,7 @@
 [
   {
     "links": "Amsterdam Pipe MuseumAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx",
     "title": "Amsterdam Pipe Museum AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -12,7 +12,7 @@
   },
   {
     "links": "Dit museum is kidsproofKoninklijk Paleis AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx",
     "title": "Koninklijk Paleis Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -23,7 +23,7 @@
   },
   {
     "links": "Cromhouthuis │ Bijbels MuseumAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx",
     "title": "Cromhouthuis │ Bijbels Museum AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -34,7 +34,7 @@
   },
   {
     "links": "HeksenwaagOUDEWATERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx",
     "title": "Heksenwaag OUDEWATER",
     "smalltitle": "",
     "address": "",
@@ -45,7 +45,7 @@
   },
   {
     "links": "JenevermuseumSCHIEDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx",
     "title": "Jenevermuseum SCHIEDAM",
     "smalltitle": "",
     "address": "",
@@ -56,7 +56,7 @@
   },
   {
     "links": "JenevermuseumSCHIEDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx",
     "title": "Jenevermuseum SCHIEDAM",
     "smalltitle": "",
     "address": "",
@@ -67,7 +67,7 @@
   },
   {
     "links": "Dolhuys, museum van de geestHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx",
     "title": "Dolhuys, museum van de geest HAARLEM",
     "smalltitle": "",
     "address": "",
@@ -78,7 +78,7 @@
   },
   {
     "links": "MariniersmuseumROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx",
     "title": "Mariniersmuseum ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -89,7 +89,7 @@
   },
   {
     "links": "Museum De WiegerDEURNEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx",
     "title": "Museum De Wieger DEURNE",
     "smalltitle": "",
     "address": "",
@@ -100,7 +100,7 @@
   },
   {
     "links": "Museum 'De Tien Malen'PUTTENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx",
     "title": "Museum 'De Tien Malen' PUTTEN",
     "smalltitle": "PUTTEN",
     "address": "",
@@ -111,7 +111,7 @@
   },
   {
     "links": "Natuurmuseum NijmegenNIJMEGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx",
     "title": "Natuurmuseum Nijmegen NIJMEGEN",
     "smalltitle": "",
     "address": "",
@@ -122,7 +122,7 @@
   },
   {
     "links": "Maritiem Centrum \"Abraham FockHOLLUM-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx",
     "title": "Maritiem Centrum \"Abraham Fock\" HOLLUM-AMELAND",
     "smalltitle": "",
     "address": "",
@@ -133,7 +133,7 @@
   },
   {
     "links": "Cultuur-Historisch Museum SorgHOLLUM-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx",
     "title": "Cultuur-Historisch Museum Sorgdrager HOLLUM-AMELAND",
     "smalltitle": "",
     "address": "Herenweg 1\n9161AM  HOLLUM-AMELAND\n\n\t\t\t\t            0519-542737",
@@ -144,7 +144,7 @@
   },
   {
     "links": "Stadsmuseum SteenwijkSTEENWIJKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx",
     "title": "Stadsmuseum Steenwijk STEENWIJK",
     "smalltitle": "",
     "address": "",
@@ -155,7 +155,7 @@
   },
   {
     "links": "Natuurmuseum NijmegenNIJMEGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx",
     "title": "Natuurmuseum Nijmegen NIJMEGEN",
     "smalltitle": "",
     "address": "Gerard Noodtstraat  121\n6511ST  NIJMEGEN\n\n\t\t\t\t            024 3297070",
@@ -166,7 +166,7 @@
   },
   {
     "links": "Titus Brandsma MuseumBOLSWARDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx",
     "title": "Titus Brandsma Museum BOLSWARD",
     "smalltitle": "",
     "address": "",
@@ -177,7 +177,7 @@
   },
   {
     "links": "Museum HindeloopenHINDELOOPENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx",
     "title": "Museum Hindeloopen HINDELOOPEN",
     "smalltitle": "",
     "address": "",
@@ -188,7 +188,7 @@
   },
   {
     "links": "Dit museum is kidsproofVerzetsmuseum AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx",
     "title": "Verzetsmuseum Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "Plantage Kerklaan  61\n1018CX  AMSTERDAM\n\n\t\t\t\t            020 6202535",
@@ -199,7 +199,7 @@
   },
   {
     "links": "Stadsmuseum DoetinchemDOETINCHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx",
     "title": "Stadsmuseum Doetinchem DOETINCHEM",
     "smalltitle": "",
     "address": "Burgemeester van Nispenstraat 2\n7001BS  DOETINCHEM\n\n\t\t\t\t            0314 - 335557",
@@ -210,7 +210,7 @@
   },
   {
     "links": "Dit museum is kidsproofNationaal Reddingmuseum Dorus DEN HELDERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",
     "title": "Nationaal Reddingmuseum Dorus Rijkers DEN HELDER",
     "smalltitle": "DEN HELDER",
     "address": "",
@@ -221,7 +221,7 @@
   },
   {
     "links": "Stadsmuseum SteenwijkSTEENWIJKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx",
     "title": "Stadsmuseum Steenwijk STEENWIJK",
     "smalltitle": "",
     "address": "Markt 64\n8331HK  STEENWIJK\n\n\t\t\t\t            0521 - 511704",
@@ -232,7 +232,7 @@
   },
   {
     "links": "Streekmuseum-VolkssterrenwachtBURGUMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx",
     "title": "Streekmuseum-Volkssterrenwacht Burgum BURGUM",
     "smalltitle": "",
     "address": "Menno van Coehoornweg 9\n9251LV  BURGUM\n\n\t\t\t\t            (0511) 46 55 44",
@@ -243,7 +243,7 @@
   },
   {
     "links": "Cromhouthuis │ Bijbels MuseumAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx",
     "title": "Cromhouthuis │ Bijbels Museum AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -254,7 +254,7 @@
   },
   {
     "links": "Museum Stad AppingedamAPPINGEDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx",
     "title": "Museum Stad Appingedam APPINGEDAM",
     "smalltitle": "",
     "address": "Wijkstraat 25\n9901AE  APPINGEDAM\n\n\t\t\t\t            (0596) 68 01 68",
@@ -265,7 +265,7 @@
   },
   {
     "links": "Noord-Veluws MuseumNUNSPEETDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx",
     "title": "Noord-Veluws Museum NUNSPEET",
     "smalltitle": "",
     "address": "",
@@ -276,7 +276,7 @@
   },
   {
     "links": "Museumstoomtram Hoorn-MedembliHOORNDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx",
     "title": "Museumstoomtram Hoorn-Medemblik HOORN",
     "smalltitle": "",
     "address": "",
@@ -287,7 +287,7 @@
   },
   {
     "links": "Touwmuseum 'De Baanschuur'OUDEWATERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx",
     "title": "Touwmuseum 'De Baanschuur' OUDEWATER",
     "smalltitle": "OUDEWATER",
     "address": "",
@@ -298,7 +298,7 @@
   },
   {
     "links": "Stichting De NollenDEN HELDERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx",
     "title": "Stichting De Nollen DEN HELDER",
     "smalltitle": "",
     "address": "Burgemeester Ritmeesterweg 10\n1784NV  DEN HELDER\n\n\t\t\t\t            0223-660200",
@@ -309,7 +309,7 @@
   },
   {
     "links": "De Casteelse PoortWAGENINGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx",
     "title": "De Casteelse Poort WAGENINGEN",
     "smalltitle": "",
     "address": "Bowlespark 1a\n6701DN  WAGENINGEN\n\n\t\t\t\t            (0317) 42 14 36",
@@ -320,7 +320,7 @@
   },
   {
     "links": "Het Nieuwe InstituutROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx",
     "title": "Het Nieuwe Instituut ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -331,7 +331,7 @@
   },
   {
     "links": "De LooierijDONGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx",
     "title": "De Looierij DONGEN",
     "smalltitle": "DONGEN",
     "address": "",
@@ -342,7 +342,7 @@
   },
   {
     "links": "Kasteel HoensbroekHOENSBROEKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx",
     "title": "Kasteel Hoensbroek HOENSBROEK",
     "smalltitle": "",
     "address": "",
@@ -353,7 +353,7 @@
   },
   {
     "links": "Museum Jan van der TogtAMSTELVEENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx",
     "title": "Museum Jan van der Togt AMSTELVEEN",
     "smalltitle": "",
     "address": "",
@@ -364,7 +364,7 @@
   },
   {
     "links": "Instituut Collectie KropSTEENWIJKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx",
     "title": "Instituut Collectie Krop STEENWIJK",
     "smalltitle": "",
     "address": "",
@@ -375,7 +375,7 @@
   },
   {
     "links": "Museum 'De Tien Malen'PUTTENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx",
     "title": "Museum 'De Tien Malen' PUTTEN",
     "smalltitle": "",
     "address": "",
@@ -386,7 +386,7 @@
   },
   {
     "links": "Museum de FundatieZWOLLEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx",
     "title": "Museum de Fundatie ZWOLLE",
     "smalltitle": "",
     "address": "",
@@ -397,7 +397,7 @@
   },
   {
     "links": "Instituut Collectie KropSTEENWIJKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx",
     "title": "Instituut Collectie Krop STEENWIJK",
     "smalltitle": "",
     "address": "",
@@ -408,7 +408,7 @@
   },
   {
     "links": "Museum BussemakerhuisBORNEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx",
     "title": "Museum Bussemakerhuis BORNE",
     "smalltitle": "",
     "address": "",
@@ -419,7 +419,7 @@
   },
   {
     "links": "Museum DorestadWIJK BIJ DUURSTEDEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx",
     "title": "Museum Dorestad WIJK BIJ DUURSTEDE",
     "smalltitle": "",
     "address": "Muntstraat 42\n3961AL  WIJK BIJ DUURSTEDE\n\n\t\t\t\t            (0343) 57 14 48",
@@ -430,7 +430,7 @@
   },
   {
     "links": "Stichting De NollenDEN HELDERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx",
     "title": "Stichting De Nollen DEN HELDER",
     "smalltitle": "",
     "address": "",
@@ -441,7 +441,7 @@
   },
   {
     "links": "Museum de KantfabriekHORSTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx",
     "title": "Museum de Kantfabriek HORST",
     "smalltitle": "",
     "address": "",
@@ -452,7 +452,7 @@
   },
   {
     "links": "Streekmuseum KrimpenerwaardKRIMPEN A/D  IJSSELDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx",
     "title": "Streekmuseum Krimpenerwaard KRIMPEN A/D  IJSSEL",
     "smalltitle": "",
     "address": "",
@@ -463,7 +463,7 @@
   },
   {
     "links": "DAF MuseumEINDHOVENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx",
     "title": "DAF Museum EINDHOVEN",
     "smalltitle": "",
     "address": "",
@@ -474,7 +474,7 @@
   },
   {
     "links": "Stedelijk Museum AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx",
     "title": "Stedelijk Museum Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "Museumplein 10\n1071 DJ  AMSTERDAM\n\n\t\t\t\t            020 - 57 329 11",
@@ -485,7 +485,7 @@
   },
   {
     "links": "ZoutmuseumDELDENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx",
     "title": "Zoutmuseum DELDEN",
     "smalltitle": "DELDEN",
     "address": "",
@@ -496,7 +496,7 @@
   },
   {
     "links": "Dolhuys, museum van de geestHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx",
     "title": "Dolhuys, museum van de geest HAARLEM",
     "smalltitle": "",
     "address": "",
@@ -507,7 +507,7 @@
   },
   {
     "links": "Museum BrediusDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx",
     "title": "Museum Bredius DEN HAAG",
     "smalltitle": "DEN HAAG",
     "address": "",
@@ -518,7 +518,7 @@
   },
   {
     "links": "Museum SchoklandSCHOKLANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx",
     "title": "Museum Schokland SCHOKLAND",
     "smalltitle": "SCHOKLAND",
     "address": "",
@@ -529,7 +529,7 @@
   },
   {
     "links": "Museum In 't Houten HuisDE RIJPDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx",
     "title": "Museum In 't Houten Huis DE RIJP",
     "smalltitle": "",
     "address": "Tuingracht  13\n1483AP  DE RIJP\n\n\t\t\t\t            0299 671286",
@@ -540,7 +540,7 @@
   },
   {
     "links": "HeksenwaagOUDEWATERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx",
     "title": "Heksenwaag OUDEWATER",
     "smalltitle": "",
     "address": "",
@@ -551,7 +551,7 @@
   },
   {
     "links": "Museum Rotterdam ROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx",
     "title": "Museum Rotterdam  ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -562,7 +562,7 @@
   },
   {
     "links": "Noord-Veluws MuseumNUNSPEETDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx",
     "title": "Noord-Veluws Museum NUNSPEET",
     "smalltitle": "",
     "address": "",
@@ -573,7 +573,7 @@
   },
   {
     "links": "Museum DorestadWIJK BIJ DUURSTEDEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx",
     "title": "Museum Dorestad WIJK BIJ DUURSTEDE",
     "smalltitle": "",
     "address": "",
@@ -584,7 +584,7 @@
   },
   {
     "links": "Museum de FundatieZWOLLEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx",
     "title": "Museum de Fundatie ZWOLLE",
     "smalltitle": "ZWOLLE",
     "address": "",
@@ -595,7 +595,7 @@
   },
   {
     "links": "Museum De WiegerDEURNEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx",
     "title": "Museum De Wieger DEURNE",
     "smalltitle": "",
     "address": "",
@@ -606,7 +606,7 @@
   },
   {
     "links": "Dit museum is kidsproofNationaal Reddingmuseum Dorus DEN HELDERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",
     "title": "Nationaal Reddingmuseum Dorus Rijkers DEN HELDER",
     "smalltitle": "",
     "address": "Willemsoord 60g\n1781AS  DEN HELDER\n\n\t\t\t\t            0223 618320",
@@ -617,7 +617,7 @@
   },
   {
     "links": "Dit museum is kidsproofMuseum VolkenkundeLEIDENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx",
     "title": "Museum Volkenkunde LEIDEN",
     "smalltitle": "",
     "address": "",
@@ -628,7 +628,7 @@
   },
   {
     "links": "Dit museum is kidsproofTechniekmuseum HEIMHENGELODit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx",
     "title": "Techniekmuseum HEIM HENGELO",
     "smalltitle": "",
     "address": "",
@@ -639,7 +639,7 @@
   },
   {
     "links": "Collectie BrandsNIEUW DORDRECHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx",
     "title": "Collectie Brands NIEUW DORDRECHT",
     "smalltitle": "",
     "address": "",
@@ -650,7 +650,7 @@
   },
   {
     "links": "De LooierijDONGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx",
     "title": "De Looierij DONGEN",
     "smalltitle": "",
     "address": "Kerkstraat 33\n5101BB  DONGEN\n\n\t\t\t\t            (0162) 38 71 94",
@@ -661,7 +661,7 @@
   },
   {
     "links": "Nederlands VolksbuurtmuseumUTRECHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx",
     "title": "Nederlands Volksbuurtmuseum UTRECHT",
     "smalltitle": "UTRECHT",
     "address": "",
@@ -672,7 +672,7 @@
   },
   {
     "links": "Museum HindeloopenHINDELOOPENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx",
     "title": "Museum Hindeloopen HINDELOOPEN",
     "smalltitle": "",
     "address": "",
@@ -683,7 +683,7 @@
   },
   {
     "links": "Museum BronbeekARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx",
     "title": "Museum Bronbeek ARNHEM",
     "smalltitle": "",
     "address": "",
@@ -694,7 +694,7 @@
   },
   {
     "links": "Portugese Synagoge AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx",
     "title": "Portugese Synagoge Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -705,7 +705,7 @@
   },
   {
     "links": "Dit museum is kidsproofGeoFortHERWIJNENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx",
     "title": "GeoFort HERWIJNEN",
     "smalltitle": "HERWIJNEN",
     "address": "",
@@ -716,7 +716,7 @@
   },
   {
     "links": "SCHUNCKHEERLENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx",
     "title": "SCHUNCK HEERLEN",
     "smalltitle": "",
     "address": "",
@@ -727,7 +727,7 @@
   },
   {
     "links": "Dit museum is kidsproofNederlands OpenluchtmuseumARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx",
     "title": "Nederlands Openluchtmuseum ARNHEM",
     "smalltitle": "",
     "address": "Hoeferlaan 4\n6816SG  ARNHEM\n\n\t\t\t\t            026 - 35 76 101",
@@ -738,7 +738,7 @@
   },
   {
     "links": "Streekmuseum-VolkssterrenwachtBURGUMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx",
     "title": "Streekmuseum-Volkssterrenwacht Burgum BURGUM",
     "smalltitle": "",
     "address": "",
@@ -749,7 +749,7 @@
   },
   {
     "links": "Streekmuseum-VolkssterrenwachtBURGUMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx",
     "title": "Streekmuseum-Volkssterrenwacht Burgum BURGUM",
     "smalltitle": "",
     "address": "",
@@ -760,7 +760,7 @@
   },
   {
     "links": "Museum de KantfabriekHORSTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx",
     "title": "Museum de Kantfabriek HORST",
     "smalltitle": "",
     "address": "Americaanseweg 8\n5961GP  HORST\n\n\t\t\t\t            077 - 3981650",
@@ -771,7 +771,7 @@
   },
   {
     "links": "Kasteel HeeswijkHEESWIJK-DINTHERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx",
     "title": "Kasteel Heeswijk HEESWIJK-DINTHER",
     "smalltitle": "",
     "address": "",
@@ -782,7 +782,7 @@
   },
   {
     "links": "Museum NijkerkNIJKERKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx",
     "title": "Museum Nijkerk NIJKERK",
     "smalltitle": "",
     "address": "",
@@ -793,7 +793,7 @@
   },
   {
     "links": "Dit museum is kidsproofNatura Docet Wonderryck TwenteDENEKAMPDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx",
     "title": "Natura Docet Wonderryck Twente DENEKAMP",
     "smalltitle": "",
     "address": "",
@@ -804,7 +804,7 @@
   },
   {
     "links": "Landbouw-Juttersmuseum 'SwartwBUREN-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx",
     "title": "Landbouw-Juttersmuseum 'Swartwoude' BUREN-AMELAND",
     "smalltitle": "",
     "address": "",
@@ -815,7 +815,7 @@
   },
   {
     "links": "Museum HaarlemHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx",
     "title": "Museum Haarlem HAARLEM",
     "smalltitle": "",
     "address": "",
@@ -826,7 +826,7 @@
   },
   {
     "links": "DAF MuseumEINDHOVENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx",
     "title": "DAF Museum EINDHOVEN",
     "smalltitle": "",
     "address": "",
@@ -837,7 +837,7 @@
   },
   {
     "links": "Huis VerwoldeLARENDe Museumkaart is niet geldig in dit museum",
-    "links-href": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx",
     "title": "Huis Verwolde LAREN",
     "smalltitle": "",
     "address": "",
@@ -848,7 +848,7 @@
   },
   {
     "links": "Stichting De NollenDEN HELDERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx",
     "title": "Stichting De Nollen DEN HELDER",
     "smalltitle": "",
     "address": "",
@@ -859,7 +859,7 @@
   },
   {
     "links": "Natuurhistorisch Museum MaastrMAASTRICHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx",
     "title": "Natuurhistorisch Museum Maastricht MAASTRICHT",
     "smalltitle": "MAASTRICHT",
     "address": "",
@@ -870,7 +870,7 @@
   },
   {
     "links": "Museum Willet-HolthuysenAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx",
     "title": "Museum Willet-Holthuysen AMSTERDAM",
     "smalltitle": "",
     "address": "Herengracht 605\n1017CE  AMSTERDAM\n\n\t\t\t\t            020-5231822",
@@ -881,7 +881,7 @@
   },
   {
     "links": "Museum Jan van der TogtAMSTELVEENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx",
     "title": "Museum Jan van der Togt AMSTELVEEN",
     "smalltitle": "AMSTELVEEN",
     "address": "",
@@ -892,7 +892,7 @@
   },
   {
     "links": "De LooierijDONGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx",
     "title": "De Looierij DONGEN",
     "smalltitle": "",
     "address": "",
@@ -903,7 +903,7 @@
   },
   {
     "links": "MicropiaAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx",
     "title": "Micropia AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -914,7 +914,7 @@
   },
   {
     "links": "Dit museum is kidsproofMuseum VolkenkundeLEIDENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx",
     "title": "Museum Volkenkunde LEIDEN",
     "smalltitle": "",
     "address": "Steenstraat 1\n2312BS  LEIDEN\n\n\t\t\t\t            088-0042800",
@@ -925,7 +925,7 @@
   },
   {
     "links": "Museum BronbeekARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx",
     "title": "Museum Bronbeek ARNHEM",
     "smalltitle": "",
     "address": "",
@@ -936,7 +936,7 @@
   },
   {
     "links": "Gemeentemuseum Den HaagDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx",
     "title": "Gemeentemuseum Den Haag DEN HAAG",
     "smalltitle": "",
     "address": "",
@@ -947,7 +947,7 @@
   },
   {
     "links": "Dolhuys, museum van de geestHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx",
     "title": "Dolhuys, museum van de geest HAARLEM",
     "smalltitle": "HAARLEM",
     "address": "",
@@ -958,7 +958,7 @@
   },
   {
     "links": "Museumstoomtram Hoorn-MedembliHOORNDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx",
     "title": "Museumstoomtram Hoorn-Medemblik HOORN",
     "smalltitle": "",
     "address": "Van Dedemstraat 8\n1624NN  HOORN\n\n\t\t\t\t            0229 - 214862",
@@ -969,7 +969,7 @@
   },
   {
     "links": "Museum BronbeekARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx",
     "title": "Museum Bronbeek ARNHEM",
     "smalltitle": "",
     "address": "",
@@ -980,7 +980,7 @@
   },
   {
     "links": "Streekmuseum KrimpenerwaardKRIMPEN A/D  IJSSELDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx",
     "title": "Streekmuseum Krimpenerwaard KRIMPEN A/D  IJSSEL",
     "smalltitle": "",
     "address": "IJsseldijk  312\n2922BM  KRIMPEN A/D  IJSSEL\n\n\t\t\t\t            0180 - 51 48 66",
@@ -991,7 +991,7 @@
   },
   {
     "links": "Maritiem Centrum \"Abraham FockHOLLUM-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx",
     "title": "Maritiem Centrum \"Abraham Fock\" HOLLUM-AMELAND",
     "smalltitle": "HOLLUM-AMELAND",
     "address": "",
@@ -1002,7 +1002,7 @@
   },
   {
     "links": "Natuurmuseum NijmegenNIJMEGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx",
     "title": "Natuurmuseum Nijmegen NIJMEGEN",
     "smalltitle": "",
     "address": "",
@@ -1013,7 +1013,7 @@
   },
   {
     "links": "Museum Jan van der TogtAMSTELVEENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx",
     "title": "Museum Jan van der Togt AMSTELVEEN",
     "smalltitle": "",
     "address": "Dorpsstraat  50\n1182JE  AMSTELVEEN\n\n\t\t\t\t            020 6415754",
@@ -1024,7 +1024,7 @@
   },
   {
     "links": "Dit museum is kidsproofGeoFortHERWIJNENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx",
     "title": "GeoFort HERWIJNEN",
     "smalltitle": "",
     "address": "",
@@ -1035,7 +1035,7 @@
   },
   {
     "links": "Museum 'De Tien Malen'PUTTENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx",
     "title": "Museum 'De Tien Malen' PUTTEN",
     "smalltitle": "",
     "address": "Garderenseweg 97\n3881GK  PUTTEN\n\n\t\t\t\t            (0341) 35 54 85",
@@ -1046,7 +1046,7 @@
   },
   {
     "links": "De Casteelse PoortWAGENINGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx",
     "title": "De Casteelse Poort WAGENINGEN",
     "smalltitle": "",
     "address": "",
@@ -1057,7 +1057,7 @@
   },
   {
     "links": "Nationaal ArchiefDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx",
     "title": "Nationaal Archief DEN HAAG",
     "smalltitle": "DEN HAAG",
     "address": "",
@@ -1068,7 +1068,7 @@
   },
   {
     "links": "ZoutmuseumDELDENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx",
     "title": "Zoutmuseum DELDEN",
     "smalltitle": "",
     "address": "",
@@ -1079,7 +1079,7 @@
   },
   {
     "links": "Stichting De NollenDEN HELDERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx",
     "title": "Stichting De Nollen DEN HELDER",
     "smalltitle": "",
     "address": "",
@@ -1090,7 +1090,7 @@
   },
   {
     "links": "Noord-Veluws MuseumNUNSPEETDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx",
     "title": "Noord-Veluws Museum NUNSPEET",
     "smalltitle": "",
     "address": "",
@@ -1101,7 +1101,7 @@
   },
   {
     "links": "Titus Brandsma MuseumBOLSWARDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx",
     "title": "Titus Brandsma Museum BOLSWARD",
     "smalltitle": "",
     "address": "",
@@ -1112,7 +1112,7 @@
   },
   {
     "links": "Huis VerwoldeLARENDe Museumkaart is niet geldig in dit museum",
-    "links-href": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx",
     "title": "Huis Verwolde LAREN",
     "smalltitle": "",
     "address": "",
@@ -1123,7 +1123,7 @@
   },
   {
     "links": "SCHUNCKHEERLENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx",
     "title": "SCHUNCK HEERLEN",
     "smalltitle": "HEERLEN",
     "address": "",
@@ -1134,7 +1134,7 @@
   },
   {
     "links": "Landbouw-Juttersmuseum 'SwartwBUREN-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx",
     "title": "Landbouw-Juttersmuseum 'Swartwoude' BUREN-AMELAND",
     "smalltitle": "",
     "address": "",
@@ -1145,7 +1145,7 @@
   },
   {
     "links": "Streekmuseum-VolkssterrenwachtBURGUMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx",
     "title": "Streekmuseum-Volkssterrenwacht Burgum BURGUM",
     "smalltitle": "",
     "address": "",
@@ -1156,7 +1156,7 @@
   },
   {
     "links": "Nationaal ArchiefDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx",
     "title": "Nationaal Archief DEN HAAG",
     "smalltitle": "",
     "address": "",
@@ -1167,7 +1167,7 @@
   },
   {
     "links": "Nationaal ArchiefDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx",
     "title": "Nationaal Archief DEN HAAG",
     "smalltitle": "",
     "address": "P.W. Alexanderhof 20\n2595BE  DEN HAAG\n\n\t\t\t\t            070 3315400",
@@ -1178,7 +1178,7 @@
   },
   {
     "links": "Museum de KantfabriekHORSTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx",
     "title": "Museum de Kantfabriek HORST",
     "smalltitle": "",
     "address": "",
@@ -1189,7 +1189,7 @@
   },
   {
     "links": "Kasteel HoensbroekHOENSBROEKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx",
     "title": "Kasteel Hoensbroek HOENSBROEK",
     "smalltitle": "",
     "address": "",
@@ -1200,7 +1200,7 @@
   },
   {
     "links": "Brabants Museum Oud OosterhoutOOSTERHOUTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx",
     "title": "Brabants Museum Oud Oosterhout OOSTERHOUT",
     "smalltitle": "",
     "address": "",
@@ -1211,7 +1211,7 @@
   },
   {
     "links": "Stedelijk Museum AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx",
     "title": "Stedelijk Museum Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -1222,7 +1222,7 @@
   },
   {
     "links": "Dit museum is kidsproofNationaal Reddingmuseum Dorus DEN HELDERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",
     "title": "Nationaal Reddingmuseum Dorus Rijkers DEN HELDER",
     "smalltitle": "",
     "address": "",
@@ -1233,7 +1233,7 @@
   },
   {
     "links": "de Appel arts centreAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx",
     "title": "de Appel arts centre AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -1244,7 +1244,7 @@
   },
   {
     "links": "Museum BronbeekARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx",
     "title": "Museum Bronbeek ARNHEM",
     "smalltitle": "",
     "address": "Velperweg 147\n6824MB  ARNHEM\n\n\t\t\t\t            (026) 376 35 55",
@@ -1255,7 +1255,7 @@
   },
   {
     "links": "Museum HindeloopenHINDELOOPENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx",
     "title": "Museum Hindeloopen HINDELOOPEN",
     "smalltitle": "",
     "address": "Dijkweg 1 -3\n8713KD  HINDELOOPEN\n\n\t\t\t\t            0514 521420",
@@ -1266,7 +1266,7 @@
   },
   {
     "links": "ZoutmuseumDELDENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx",
     "title": "Zoutmuseum DELDEN",
     "smalltitle": "",
     "address": "Langestraat  30\n7491AG  DELDEN\n\n\t\t\t\t            074 3764546",
@@ -1277,7 +1277,7 @@
   },
   {
     "links": "Streekmuseum KrimpenerwaardKRIMPEN A/D  IJSSELDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx",
     "title": "Streekmuseum Krimpenerwaard KRIMPEN A/D  IJSSEL",
     "smalltitle": "",
     "address": "",
@@ -1288,7 +1288,7 @@
   },
   {
     "links": "Cultuur-Historisch Museum SorgHOLLUM-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx",
     "title": "Cultuur-Historisch Museum Sorgdrager HOLLUM-AMELAND",
     "smalltitle": "",
     "address": "",
@@ -1299,7 +1299,7 @@
   },
   {
     "links": "Streekmuseum KrimpenerwaardKRIMPEN A/D  IJSSELDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx",
     "title": "Streekmuseum Krimpenerwaard KRIMPEN A/D  IJSSEL",
     "smalltitle": "",
     "address": "",
@@ -1310,7 +1310,7 @@
   },
   {
     "links": "Dit museum is kidsproofVerzetsmuseum AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx",
     "title": "Verzetsmuseum Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -1321,7 +1321,7 @@
   },
   {
     "links": "De LooierijDONGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx",
     "title": "De Looierij DONGEN",
     "smalltitle": "",
     "address": "",
@@ -1332,7 +1332,7 @@
   },
   {
     "links": "Het Noordbrabants Museum'S HERTOGENBOSCHDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx",
     "title": "Het Noordbrabants Museum 'S HERTOGENBOSCH",
     "smalltitle": "",
     "address": "",
@@ -1343,7 +1343,7 @@
   },
   {
     "links": "Cultuur-Historisch Museum SorgHOLLUM-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx",
     "title": "Cultuur-Historisch Museum Sorgdrager HOLLUM-AMELAND",
     "smalltitle": "",
     "address": "",
@@ -1354,7 +1354,7 @@
   },
   {
     "links": "Museum Rotterdam ROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx",
     "title": "Museum Rotterdam  ROTTERDAM",
     "smalltitle": "ROTTERDAM",
     "address": "",
@@ -1365,7 +1365,7 @@
   },
   {
     "links": "Museum de FundatieZWOLLEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx",
     "title": "Museum de Fundatie ZWOLLE",
     "smalltitle": "",
     "address": "Blijmarkt 20\n8011NE  ZWOLLE\n\n\t\t\t\t            0572 - 388 1 88",
@@ -1376,7 +1376,7 @@
   },
   {
     "links": "Museum In 't Houten HuisDE RIJPDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx",
     "title": "Museum In 't Houten Huis DE RIJP",
     "smalltitle": "",
     "address": "",
@@ -1387,7 +1387,7 @@
   },
   {
     "links": "Cromhouthuis │ Bijbels MuseumAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx",
     "title": "Cromhouthuis │ Bijbels Museum AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -1398,7 +1398,7 @@
   },
   {
     "links": "Museum HaarlemHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx",
     "title": "Museum Haarlem HAARLEM",
     "smalltitle": "",
     "address": "",
@@ -1409,7 +1409,7 @@
   },
   {
     "links": "Cube Design MuseumKERKRADEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx",
     "title": "Cube Design Museum KERKRADE",
     "smalltitle": "",
     "address": "",
@@ -1420,7 +1420,7 @@
   },
   {
     "links": "MariniersmuseumROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx",
     "title": "Mariniersmuseum ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -1431,7 +1431,7 @@
   },
   {
     "links": "Brabants Museum Oud OosterhoutOOSTERHOUTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx",
     "title": "Brabants Museum Oud Oosterhout OOSTERHOUT",
     "smalltitle": "",
     "address": "Bredaseweg  129\n4904SB  OOSTERHOUT\n\n\t\t\t\t            0162 - 42 68 15",
@@ -1442,7 +1442,7 @@
   },
   {
     "links": "Museum DorestadWIJK BIJ DUURSTEDEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx",
     "title": "Museum Dorestad WIJK BIJ DUURSTEDE",
     "smalltitle": "",
     "address": "",
@@ -1453,7 +1453,7 @@
   },
   {
     "links": "Dit museum is kidsproofKoninklijk Paleis AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx",
     "title": "Koninklijk Paleis Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "Dam 1\n1012NP  AMSTERDAM\n\n\t\t\t\t            020-620 40 60",
@@ -1464,7 +1464,7 @@
   },
   {
     "links": "Museum HaarlemHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx",
     "title": "Museum Haarlem HAARLEM",
     "smalltitle": "",
     "address": "",
@@ -1475,7 +1475,7 @@
   },
   {
     "links": "Dit museum is kidsproofVerzetsmuseum AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx",
     "title": "Verzetsmuseum Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -1486,7 +1486,7 @@
   },
   {
     "links": "Dolhuys, museum van de geestHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx",
     "title": "Dolhuys, museum van de geest HAARLEM",
     "smalltitle": "",
     "address": "Schotersingel 2\n2021GE  HAARLEM\n\n\t\t\t\t            023 5410670",
@@ -1497,7 +1497,7 @@
   },
   {
     "links": "Dit museum is kidsproofNationaal Reddingmuseum Dorus DEN HELDERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",
     "title": "Nationaal Reddingmuseum Dorus Rijkers DEN HELDER",
     "smalltitle": "",
     "address": "",
@@ -1508,7 +1508,7 @@
   },
   {
     "links": "Museum Willet-HolthuysenAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx",
     "title": "Museum Willet-Holthuysen AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -1519,7 +1519,7 @@
   },
   {
     "links": "Gemeentemuseum Den HaagDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx",
     "title": "Gemeentemuseum Den Haag DEN HAAG",
     "smalltitle": "",
     "address": "",
@@ -1530,7 +1530,7 @@
   },
   {
     "links": "Rotterdams Radio MuseumROTTERDAMDe Museumkaart is niet geldig in dit museum",
-    "links-href": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx",
     "title": "Rotterdams Radio Museum ROTTERDAM",
     "smalltitle": "ROTTERDAM",
     "address": "",
@@ -1541,7 +1541,7 @@
   },
   {
     "links": "Brabants Museum Oud OosterhoutOOSTERHOUTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx",
     "title": "Brabants Museum Oud Oosterhout OOSTERHOUT",
     "smalltitle": "",
     "address": "",
@@ -1552,7 +1552,7 @@
   },
   {
     "links": "Dit museum is kidsproofMuseum VolkenkundeLEIDENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx",
     "title": "Museum Volkenkunde LEIDEN",
     "smalltitle": "LEIDEN",
     "address": "",
@@ -1563,7 +1563,7 @@
   },
   {
     "links": "Natuurhistorisch Museum MaastrMAASTRICHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx",
     "title": "Natuurhistorisch Museum Maastricht MAASTRICHT",
     "smalltitle": "",
     "address": "",
@@ -1574,7 +1574,7 @@
   },
   {
     "links": "Museum Stad AppingedamAPPINGEDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx",
     "title": "Museum Stad Appingedam APPINGEDAM",
     "smalltitle": "",
     "address": "",
@@ -1585,7 +1585,7 @@
   },
   {
     "links": "Natuurmuseum NijmegenNIJMEGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx",
     "title": "Natuurmuseum Nijmegen NIJMEGEN",
     "smalltitle": "",
     "address": "",
@@ -1596,7 +1596,7 @@
   },
   {
     "links": "JenevermuseumSCHIEDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx",
     "title": "Jenevermuseum SCHIEDAM",
     "smalltitle": "",
     "address": "Lange Haven  74 - 76\n3111CH  SCHIEDAM\n\n\t\t\t\t            010 2469676",
@@ -1607,7 +1607,7 @@
   },
   {
     "links": "Kasteel HernenHERNENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx",
     "title": "Kasteel Hernen HERNEN",
     "smalltitle": "",
     "address": "",
@@ -1618,7 +1618,7 @@
   },
   {
     "links": "Museum HindeloopenHINDELOOPENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx",
     "title": "Museum Hindeloopen HINDELOOPEN",
     "smalltitle": "",
     "address": "",
@@ -1629,7 +1629,7 @@
   },
   {
     "links": "Gemeentemuseum Den HaagDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx",
     "title": "Gemeentemuseum Den Haag DEN HAAG",
     "smalltitle": "",
     "address": "",
@@ -1640,7 +1640,7 @@
   },
   {
     "links": "Museum HaarlemHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx",
     "title": "Museum Haarlem HAARLEM",
     "smalltitle": "",
     "address": "Groot Heiligland 47\n2011EP  HAARLEM\n\n\t\t\t\t            023 5422427",
@@ -1651,7 +1651,7 @@
   },
   {
     "links": "Kasteel HoensbroekHOENSBROEKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx",
     "title": "Kasteel Hoensbroek HOENSBROEK",
     "smalltitle": "",
     "address": "Klinkertstraat 118\n6433PB  HOENSBROEK\n\n\t\t\t\t            045 - 5227272",
@@ -1662,7 +1662,7 @@
   },
   {
     "links": "Kasteel HernenHERNENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx",
     "title": "Kasteel Hernen HERNEN",
     "smalltitle": "",
     "address": "",
@@ -1673,7 +1673,7 @@
   },
   {
     "links": "Titus Brandsma MuseumBOLSWARDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx",
     "title": "Titus Brandsma Museum BOLSWARD",
     "smalltitle": "",
     "address": "",
@@ -1684,7 +1684,7 @@
   },
   {
     "links": "Museum 'De Tien Malen'PUTTENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx",
     "title": "Museum 'De Tien Malen' PUTTEN",
     "smalltitle": "",
     "address": "",
@@ -1695,7 +1695,7 @@
   },
   {
     "links": "Rotterdams Radio MuseumROTTERDAMDe Museumkaart is niet geldig in dit museum",
-    "links-href": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx",
     "title": "Rotterdams Radio Museum ROTTERDAM",
     "smalltitle": "",
     "address": "Ceintuurbaan 104 -111\n3051KD  ROTTERDAM\n\n\t\t\t\t            (010) 461 85 85",
@@ -1706,7 +1706,7 @@
   },
   {
     "links": "Dit museum is kidsproofNederlands OpenluchtmuseumARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx",
     "title": "Nederlands Openluchtmuseum ARNHEM",
     "smalltitle": "",
     "address": "",
@@ -1717,7 +1717,7 @@
   },
   {
     "links": "de Appel arts centreAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx",
     "title": "de Appel arts centre AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -1728,7 +1728,7 @@
   },
   {
     "links": "Stedelijk Museum AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx",
     "title": "Stedelijk Museum Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -1739,7 +1739,7 @@
   },
   {
     "links": "Huis VerwoldeLARENDe Museumkaart is niet geldig in dit museum",
-    "links-href": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx",
     "title": "Huis Verwolde LAREN",
     "smalltitle": "LAREN",
     "address": "",
@@ -1750,7 +1750,7 @@
   },
   {
     "links": "Streekmuseum KrimpenerwaardKRIMPEN A/D  IJSSELDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Streekmuseum+Krimpenerwaard/Streekmuseum+voor+de+Krimpenerwaard.aspx",
     "title": "Streekmuseum Krimpenerwaard KRIMPEN A/D  IJSSEL",
     "smalltitle": "KRIMPEN A/D  IJSSEL",
     "address": "",
@@ -1761,7 +1761,7 @@
   },
   {
     "links": "Huis VerwoldeLARENDe Museumkaart is niet geldig in dit museum",
-    "links-href": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx",
     "title": "Huis Verwolde LAREN",
     "smalltitle": "",
     "address": "",
@@ -1772,7 +1772,7 @@
   },
   {
     "links": "Nationaal Vlasserij-SuikermuseKLUNDERTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx",
     "title": "Nationaal Vlasserij-Suikermuseum KLUNDERT",
     "smalltitle": "",
     "address": "",
@@ -1783,7 +1783,7 @@
   },
   {
     "links": "Dolhuys, museum van de geestHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Dolhuys%2c+museum+van+de+geest/Het+Dolhuys+.aspx",
     "title": "Dolhuys, museum van de geest HAARLEM",
     "smalltitle": "",
     "address": "",
@@ -1794,7 +1794,7 @@
   },
   {
     "links": "Kasteel HeeswijkHEESWIJK-DINTHERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx",
     "title": "Kasteel Heeswijk HEESWIJK-DINTHER",
     "smalltitle": "HEESWIJK-DINTHER",
     "address": "",
@@ -1805,7 +1805,7 @@
   },
   {
     "links": "de Appel arts centreAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx",
     "title": "de Appel arts centre AMSTERDAM",
     "smalltitle": "",
     "address": "Prins Hendrikkade 142\n1011AT  AMSTERDAM\n\n\t\t\t\t            020 - 62 55 651",
@@ -1816,7 +1816,7 @@
   },
   {
     "links": "Noord-Veluws MuseumNUNSPEETDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx",
     "title": "Noord-Veluws Museum NUNSPEET",
     "smalltitle": "",
     "address": "Winckelweg 17a\n8071 DN  NUNSPEET\n\n\t\t\t\t            0341 250 560",
@@ -1827,7 +1827,7 @@
   },
   {
     "links": "DAF MuseumEINDHOVENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx",
     "title": "DAF Museum EINDHOVEN",
     "smalltitle": "",
     "address": "Tongelresestraat 27\n5613DA  EINDHOVEN\n\n\t\t\t\t            (040) 244 43 64",
@@ -1838,7 +1838,7 @@
   },
   {
     "links": "Museumstoomtram Hoorn-MedembliHOORNDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx",
     "title": "Museumstoomtram Hoorn-Medemblik HOORN",
     "smalltitle": "",
     "address": "",
@@ -1849,7 +1849,7 @@
   },
   {
     "links": "Dit museum is kidsproofTechniekmuseum HEIMHENGELODit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx",
     "title": "Techniekmuseum HEIM HENGELO",
     "smalltitle": "",
     "address": "Industriestraat  9\n7553CK  HENGELO\n\n\t\t\t\t            074 2430054",
@@ -1860,7 +1860,7 @@
   },
   {
     "links": "Stedelijk Museum AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx",
     "title": "Stedelijk Museum Amsterdam AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -1871,7 +1871,7 @@
   },
   {
     "links": "Museumstoomtram Hoorn-MedembliHOORNDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx",
     "title": "Museumstoomtram Hoorn-Medemblik HOORN",
     "smalltitle": "",
     "address": "",
@@ -1882,7 +1882,7 @@
   },
   {
     "links": "Hermitage AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx",
     "title": "Hermitage Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -1893,7 +1893,7 @@
   },
   {
     "links": "Landbouw-Juttersmuseum 'SwartwBUREN-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx",
     "title": "Landbouw-Juttersmuseum 'Swartwoude' BUREN-AMELAND",
     "smalltitle": "",
     "address": "",
@@ -1904,7 +1904,7 @@
   },
   {
     "links": "Touwmuseum 'De Baanschuur'OUDEWATERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx",
     "title": "Touwmuseum 'De Baanschuur' OUDEWATER",
     "smalltitle": "",
     "address": "",
@@ -1915,7 +1915,7 @@
   },
   {
     "links": "SCHUNCKHEERLENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx",
     "title": "SCHUNCK HEERLEN",
     "smalltitle": "",
     "address": "Bongerd 18\n6411JM  HEERLEN\n\n\t\t\t\t            045 - 5772210",
@@ -1926,7 +1926,7 @@
   },
   {
     "links": "HeksenwaagOUDEWATERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx",
     "title": "Heksenwaag OUDEWATER",
     "smalltitle": "",
     "address": "Leeuweringerstraat 2\n3421AC  OUDEWATER\n\n\t\t\t\t            (0348) 56 34 00",
@@ -1937,7 +1937,7 @@
   },
   {
     "links": "Instituut Collectie KropSTEENWIJKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx",
     "title": "Instituut Collectie Krop STEENWIJK",
     "smalltitle": "",
     "address": "",
@@ -1948,7 +1948,7 @@
   },
   {
     "links": "Kasteel HoensbroekHOENSBROEKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx",
     "title": "Kasteel Hoensbroek HOENSBROEK",
     "smalltitle": "HOENSBROEK",
     "address": "",
@@ -1959,7 +1959,7 @@
   },
   {
     "links": "Katwijks MuseumKATWIJK AAN ZEEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx",
     "title": "Katwijks Museum KATWIJK AAN ZEE",
     "smalltitle": "",
     "address": "Voorstraat  46\n2225ER  KATWIJK AAN ZEE\n\n\t\t\t\t            071 4013047",
@@ -1970,7 +1970,7 @@
   },
   {
     "links": "Katwijks MuseumKATWIJK AAN ZEEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx",
     "title": "Katwijks Museum KATWIJK AAN ZEE",
     "smalltitle": "KATWIJK AAN ZEE",
     "address": "",
@@ -1981,7 +1981,7 @@
   },
   {
     "links": "Dit museum is kidsproofNationaal Reddingmuseum Dorus DEN HELDERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Reddingmuseum+Dorus+Rijkers/Nationaal+Reddingmuseum+Dorus+Rijkers.aspx",
     "title": "Nationaal Reddingmuseum Dorus Rijkers DEN HELDER",
     "smalltitle": "",
     "address": "",
@@ -1992,7 +1992,7 @@
   },
   {
     "links": "Nationaal Vlasserij-SuikermuseKLUNDERTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx",
     "title": "Nationaal Vlasserij-Suikermuseum KLUNDERT",
     "smalltitle": "",
     "address": "Stoofdijk 1a\n4791SH  KLUNDERT\n\n\t\t\t\t            0168 401539",
@@ -2003,7 +2003,7 @@
   },
   {
     "links": "Heerenveen Museum HEERENVEENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx",
     "title": "Heerenveen Museum  HEERENVEEN",
     "smalltitle": "HEERENVEEN",
     "address": "",
@@ -2014,7 +2014,7 @@
   },
   {
     "links": "Dit museum is kidsproofVerzetsmuseum AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx",
     "title": "Verzetsmuseum Amsterdam AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -2025,7 +2025,7 @@
   },
   {
     "links": "Biesbosch MuseumEilandWERKENDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx",
     "title": "Biesbosch MuseumEiland WERKENDAM",
     "smalltitle": "WERKENDAM",
     "address": "",
@@ -2036,7 +2036,7 @@
   },
   {
     "links": "Huis ZypendaalARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx",
     "title": "Huis Zypendaal ARNHEM",
     "smalltitle": "",
     "address": "",
@@ -2047,7 +2047,7 @@
   },
   {
     "links": "Huis ZypendaalARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx",
     "title": "Huis Zypendaal ARNHEM",
     "smalltitle": "",
     "address": "",
@@ -2058,7 +2058,7 @@
   },
   {
     "links": "Museum SchoklandSCHOKLANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx",
     "title": "Museum Schokland SCHOKLAND",
     "smalltitle": "",
     "address": "",
@@ -2069,7 +2069,7 @@
   },
   {
     "links": "Huis VerwoldeLARENDe Museumkaart is niet geldig in dit museum",
-    "links-href": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Huis+Verwolde/Huis+Verwolde.aspx",
     "title": "Huis Verwolde LAREN",
     "smalltitle": "",
     "address": "Jonker Emilelaan 4\n7245TL  LAREN\n\n\t\t\t\t            (0573) 40 18 25",
@@ -2080,7 +2080,7 @@
   },
   {
     "links": "Portugese Synagoge AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx",
     "title": "Portugese Synagoge Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2091,7 +2091,7 @@
   },
   {
     "links": "ZoutmuseumDELDENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx",
     "title": "Zoutmuseum DELDEN",
     "smalltitle": "",
     "address": "",
@@ -2102,7 +2102,7 @@
   },
   {
     "links": "Museum DorestadWIJK BIJ DUURSTEDEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx",
     "title": "Museum Dorestad WIJK BIJ DUURSTEDE",
     "smalltitle": "",
     "address": "",
@@ -2113,7 +2113,7 @@
   },
   {
     "links": "Dit museum is kidsproofKoninklijk Paleis AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx",
     "title": "Koninklijk Paleis Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2124,7 +2124,7 @@
   },
   {
     "links": "Biesbosch MuseumEilandWERKENDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx",
     "title": "Biesbosch MuseumEiland WERKENDAM",
     "smalltitle": "",
     "address": "",
@@ -2135,7 +2135,7 @@
   },
   {
     "links": "Cromhouthuis │ Bijbels MuseumAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx",
     "title": "Cromhouthuis │ Bijbels Museum AMSTERDAM",
     "smalltitle": "",
     "address": "Herengracht 366-368\n1016CH  AMSTERDAM\n\n\t\t\t\t            020 6242436",
@@ -2146,7 +2146,7 @@
   },
   {
     "links": "Katwijks MuseumKATWIJK AAN ZEEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx",
     "title": "Katwijks Museum KATWIJK AAN ZEE",
     "smalltitle": "",
     "address": "",
@@ -2157,7 +2157,7 @@
   },
   {
     "links": "Portugese Synagoge AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx",
     "title": "Portugese Synagoge Amsterdam AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -2168,7 +2168,7 @@
   },
   {
     "links": "Kasteel HeeswijkHEESWIJK-DINTHERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx",
     "title": "Kasteel Heeswijk HEESWIJK-DINTHER",
     "smalltitle": "",
     "address": "Kasteel 4\n5473VA  HEESWIJK-DINTHER\n\n\t\t\t\t            (0413) 29 20 24",
@@ -2179,7 +2179,7 @@
   },
   {
     "links": "Stedelijk Museum 's Hertogenbo'S HERTOGENBOSCHDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx",
     "title": "Stedelijk Museum 's Hertogenbosch 'S HERTOGENBOSCH",
     "smalltitle": "",
     "address": "",
@@ -2190,7 +2190,7 @@
   },
   {
     "links": "SCHUNCKHEERLENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx",
     "title": "SCHUNCK HEERLEN",
     "smalltitle": "",
     "address": "",
@@ -2201,7 +2201,7 @@
   },
   {
     "links": "Maritiem Centrum \"Abraham FockHOLLUM-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx",
     "title": "Maritiem Centrum \"Abraham Fock\" HOLLUM-AMELAND",
     "smalltitle": "",
     "address": "",
@@ -2212,7 +2212,7 @@
   },
   {
     "links": "Kasteel HoensbroekHOENSBROEKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Hoensbroek/Kasteel+Hoensbroek.aspx",
     "title": "Kasteel Hoensbroek HOENSBROEK",
     "smalltitle": "",
     "address": "",
@@ -2223,7 +2223,7 @@
   },
   {
     "links": "Nederlands VolksbuurtmuseumUTRECHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx",
     "title": "Nederlands Volksbuurtmuseum UTRECHT",
     "smalltitle": "",
     "address": "",
@@ -2234,7 +2234,7 @@
   },
   {
     "links": "Museum Jan van der TogtAMSTELVEENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx",
     "title": "Museum Jan van der Togt AMSTELVEEN",
     "smalltitle": "",
     "address": "",
@@ -2245,7 +2245,7 @@
   },
   {
     "links": "Het Nieuwe InstituutROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx",
     "title": "Het Nieuwe Instituut ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2256,7 +2256,7 @@
   },
   {
     "links": "Amsterdam Pipe MuseumAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx",
     "title": "Amsterdam Pipe Museum AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2267,7 +2267,7 @@
   },
   {
     "links": "Rotterdams Radio MuseumROTTERDAMDe Museumkaart is niet geldig in dit museum",
-    "links-href": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx",
     "title": "Rotterdams Radio Museum ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2278,7 +2278,7 @@
   },
   {
     "links": "Collectie BrandsNIEUW DORDRECHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx",
     "title": "Collectie Brands NIEUW DORDRECHT",
     "smalltitle": "NIEUW DORDRECHT",
     "address": "",
@@ -2289,7 +2289,7 @@
   },
   {
     "links": "Museum 'De Tien Malen'PUTTENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+%27De+Tien+Malen%27/Historisch+Museum+De+Tien+Malen.aspx",
     "title": "Museum 'De Tien Malen' PUTTEN",
     "smalltitle": "",
     "address": "",
@@ -2300,7 +2300,7 @@
   },
   {
     "links": "Cube Design MuseumKERKRADEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx",
     "title": "Cube Design Museum KERKRADE",
     "smalltitle": "KERKRADE",
     "address": "",
@@ -2311,7 +2311,7 @@
   },
   {
     "links": "Gemeentemuseum Den HaagDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx",
     "title": "Gemeentemuseum Den Haag DEN HAAG",
     "smalltitle": "",
     "address": "Stadhouderslaan 41\n2517HV  DEN HAAG\n\n\t\t\t\t            070 338 1111",
@@ -2322,7 +2322,7 @@
   },
   {
     "links": "Dit museum is kidsproofTeylers MuseumHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx",
     "title": "Teylers Museum HAARLEM",
     "smalltitle": "",
     "address": "",
@@ -2333,7 +2333,7 @@
   },
   {
     "links": "de Appel arts centreAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx",
     "title": "de Appel arts centre AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2344,7 +2344,7 @@
   },
   {
     "links": "Museum BrediusDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx",
     "title": "Museum Bredius DEN HAAG",
     "smalltitle": "",
     "address": "",
@@ -2355,7 +2355,7 @@
   },
   {
     "links": "De Casteelse PoortWAGENINGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx",
     "title": "De Casteelse Poort WAGENINGEN",
     "smalltitle": "",
     "address": "",
@@ -2366,7 +2366,7 @@
   },
   {
     "links": "Museum BrediusDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx",
     "title": "Museum Bredius DEN HAAG",
     "smalltitle": "",
     "address": "",
@@ -2377,7 +2377,7 @@
   },
   {
     "links": "Dit museum is kidsproofNederlands OpenluchtmuseumARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx",
     "title": "Nederlands Openluchtmuseum ARNHEM",
     "smalltitle": "ARNHEM",
     "address": "",
@@ -2388,7 +2388,7 @@
   },
   {
     "links": "Amsterdam Pipe MuseumAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx",
     "title": "Amsterdam Pipe Museum AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2399,7 +2399,7 @@
   },
   {
     "links": "Stedelijk Museum AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stedelijk+Museum+Amsterdam/Stedelijk+Museum+Amsterdam.aspx",
     "title": "Stedelijk Museum Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2410,7 +2410,7 @@
   },
   {
     "links": "Natuurhistorisch Museum MaastrMAASTRICHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx",
     "title": "Natuurhistorisch Museum Maastricht MAASTRICHT",
     "smalltitle": "",
     "address": "De Bosquetplein  6-7\n6211KJ  MAASTRICHT\n\n\t\t\t\t            043 - 3505490",
@@ -2421,7 +2421,7 @@
   },
   {
     "links": "Museum Stad AppingedamAPPINGEDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx",
     "title": "Museum Stad Appingedam APPINGEDAM",
     "smalltitle": "APPINGEDAM",
     "address": "",
@@ -2432,7 +2432,7 @@
   },
   {
     "links": "Nationaal ArchiefDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx",
     "title": "Nationaal Archief DEN HAAG",
     "smalltitle": "",
     "address": "",
@@ -2443,7 +2443,7 @@
   },
   {
     "links": "MariniersmuseumROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx",
     "title": "Mariniersmuseum ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2454,7 +2454,7 @@
   },
   {
     "links": "Huis ZypendaalARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx",
     "title": "Huis Zypendaal ARNHEM",
     "smalltitle": "ARNHEM",
     "address": "",
@@ -2465,7 +2465,7 @@
   },
   {
     "links": "Heerenveen Museum HEERENVEENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx",
     "title": "Heerenveen Museum  HEERENVEEN",
     "smalltitle": "",
     "address": "",
@@ -2476,7 +2476,7 @@
   },
   {
     "links": "Museum NijkerkNIJKERKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx",
     "title": "Museum Nijkerk NIJKERK",
     "smalltitle": "NIJKERK",
     "address": "",
@@ -2487,7 +2487,7 @@
   },
   {
     "links": "Museum Rotterdam ROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx",
     "title": "Museum Rotterdam  ROTTERDAM",
     "smalltitle": "",
     "address": "Rodezand 26\n3011AN  ROTTERDAM\n\n\t\t\t\t            010 2176767",
@@ -2498,7 +2498,7 @@
   },
   {
     "links": "Cube Design MuseumKERKRADEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx",
     "title": "Cube Design Museum KERKRADE",
     "smalltitle": "",
     "address": "Museumplein 2\n6461MA  KERKRADE\n\n\t\t\t\t            045 - 56 70 809",
@@ -2509,7 +2509,7 @@
   },
   {
     "links": "Museum Rotterdam ROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx",
     "title": "Museum Rotterdam  ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2520,7 +2520,7 @@
   },
   {
     "links": "JenevermuseumSCHIEDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx",
     "title": "Jenevermuseum SCHIEDAM",
     "smalltitle": "",
     "address": "",
@@ -2531,7 +2531,7 @@
   },
   {
     "links": "Museum HindeloopenHINDELOOPENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Hindeloopen/Museum+Hindeloopen.aspx",
     "title": "Museum Hindeloopen HINDELOOPEN",
     "smalltitle": "HINDELOOPEN",
     "address": "",
@@ -2542,7 +2542,7 @@
   },
   {
     "links": "Kempenmuseum De Acht ZalighedeEERSELDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx",
     "title": "Kempenmuseum De Acht Zaligheden EERSEL",
     "smalltitle": "",
     "address": "",
@@ -2553,7 +2553,7 @@
   },
   {
     "links": "Stichting De NollenDEN HELDERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stichting+De+Nollen/Project+De+Nollen.aspx",
     "title": "Stichting De Nollen DEN HELDER",
     "smalltitle": "DEN HELDER",
     "address": "",
@@ -2564,7 +2564,7 @@
   },
   {
     "links": "Nationaal Vlasserij-SuikermuseKLUNDERTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx",
     "title": "Nationaal Vlasserij-Suikermuseum KLUNDERT",
     "smalltitle": "KLUNDERT",
     "address": "",
@@ -2575,7 +2575,7 @@
   },
   {
     "links": "MicropiaAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx",
     "title": "Micropia AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2586,7 +2586,7 @@
   },
   {
     "links": "Hermitage AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx",
     "title": "Hermitage Amsterdam AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -2597,7 +2597,7 @@
   },
   {
     "links": "Amsterdam Pipe MuseumAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx",
     "title": "Amsterdam Pipe Museum AMSTERDAM",
     "smalltitle": "",
     "address": "Prinsengracht 488\n1017KH  AMSTERDAM\n\n\t\t\t\t            (020) 421 17 79",
@@ -2608,7 +2608,7 @@
   },
   {
     "links": "Museum DorestadWIJK BIJ DUURSTEDEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Dorestad/Museum+Dorestad.aspx",
     "title": "Museum Dorestad WIJK BIJ DUURSTEDE",
     "smalltitle": "WIJK BIJ DUURSTEDE",
     "address": "",
@@ -2619,7 +2619,7 @@
   },
   {
     "links": "Huis ZypendaalARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx",
     "title": "Huis Zypendaal ARNHEM",
     "smalltitle": "",
     "address": "Zypendaalseweg 44\n6801HA  ARNHEM\n\n\t\t\t\t            026 – 364 4645",
@@ -2630,7 +2630,7 @@
   },
   {
     "links": "Tassenmuseum HendrikjeAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx",
     "title": "Tassenmuseum Hendrikje AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2641,7 +2641,7 @@
   },
   {
     "links": "Stadsmuseum DoetinchemDOETINCHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx",
     "title": "Stadsmuseum Doetinchem DOETINCHEM",
     "smalltitle": "DOETINCHEM",
     "address": "",
@@ -2652,7 +2652,7 @@
   },
   {
     "links": "Hermitage AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx",
     "title": "Hermitage Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2663,7 +2663,7 @@
   },
   {
     "links": "Het Nieuwe InstituutROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx",
     "title": "Het Nieuwe Instituut ROTTERDAM",
     "smalltitle": "",
     "address": "Museumpark 25\n3015CB  ROTTERDAM\n\n\t\t\t\t            010-4401200",
@@ -2674,7 +2674,7 @@
   },
   {
     "links": "Touwmuseum 'De Baanschuur'OUDEWATERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx",
     "title": "Touwmuseum 'De Baanschuur' OUDEWATER",
     "smalltitle": "",
     "address": "",
@@ -2685,7 +2685,7 @@
   },
   {
     "links": "Dit museum is kidsproofTeylers MuseumHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx",
     "title": "Teylers Museum HAARLEM",
     "smalltitle": "",
     "address": "",
@@ -2696,7 +2696,7 @@
   },
   {
     "links": "Museum BussemakerhuisBORNEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx",
     "title": "Museum Bussemakerhuis BORNE",
     "smalltitle": "",
     "address": "",
@@ -2707,7 +2707,7 @@
   },
   {
     "links": "Tassenmuseum HendrikjeAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx",
     "title": "Tassenmuseum Hendrikje AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -2718,7 +2718,7 @@
   },
   {
     "links": "Museum In 't Houten HuisDE RIJPDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx",
     "title": "Museum In 't Houten Huis DE RIJP",
     "smalltitle": "",
     "address": "",
@@ -2729,7 +2729,7 @@
   },
   {
     "links": "Brabants Museum Oud OosterhoutOOSTERHOUTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx",
     "title": "Brabants Museum Oud Oosterhout OOSTERHOUT",
     "smalltitle": "",
     "address": "",
@@ -2740,7 +2740,7 @@
   },
   {
     "links": "Museumstoomtram Hoorn-MedembliHOORNDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museumstoomtram+Hoorn-Medemblik/Museumstoomtram+Hoorn-Medemblik.aspx",
     "title": "Museumstoomtram Hoorn-Medemblik HOORN",
     "smalltitle": "HOORN",
     "address": "",
@@ -2751,7 +2751,7 @@
   },
   {
     "links": "De Casteelse PoortWAGENINGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx",
     "title": "De Casteelse Poort WAGENINGEN",
     "smalltitle": "",
     "address": "",
@@ -2762,7 +2762,7 @@
   },
   {
     "links": "Gemeentemuseum Den HaagDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Gemeentemuseum+Den+Haag/Gemeentemuseum+Den+Haag.aspx",
     "title": "Gemeentemuseum Den Haag DEN HAAG",
     "smalltitle": "DEN HAAG",
     "address": "",
@@ -2773,7 +2773,7 @@
   },
   {
     "links": "MariniersmuseumROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx",
     "title": "Mariniersmuseum ROTTERDAM",
     "smalltitle": "",
     "address": "Wijnhaven 7-13\n3011WH  ROTTERDAM\n\n\t\t\t\t            010 4129600",
@@ -2784,7 +2784,7 @@
   },
   {
     "links": "Museum SchoklandSCHOKLANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx",
     "title": "Museum Schokland SCHOKLAND",
     "smalltitle": "",
     "address": "",
@@ -2795,7 +2795,7 @@
   },
   {
     "links": "Dit museum is kidsproofGeoFortHERWIJNENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx",
     "title": "GeoFort HERWIJNEN",
     "smalltitle": "",
     "address": "",
@@ -2806,7 +2806,7 @@
   },
   {
     "links": "Museum Willet-HolthuysenAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx",
     "title": "Museum Willet-Holthuysen AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -2817,7 +2817,7 @@
   },
   {
     "links": "Kempenmuseum De Acht ZalighedeEERSELDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx",
     "title": "Kempenmuseum De Acht Zaligheden EERSEL",
     "smalltitle": "",
     "address": "Kapelweg  2\n5521JJ  EERSEL\n\n\t\t\t\t            0497 - 51 56 49",
@@ -2828,7 +2828,7 @@
   },
   {
     "links": "Katwijks MuseumKATWIJK AAN ZEEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx",
     "title": "Katwijks Museum KATWIJK AAN ZEE",
     "smalltitle": "",
     "address": "",
@@ -2839,7 +2839,7 @@
   },
   {
     "links": "Het Noordbrabants Museum'S HERTOGENBOSCHDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx",
     "title": "Het Noordbrabants Museum 'S HERTOGENBOSCH",
     "smalltitle": "",
     "address": "Verwersstraat 41\n5211HT  'S HERTOGENBOSCH\n\n\t\t\t\t            073 - 68 77 877",
@@ -2850,7 +2850,7 @@
   },
   {
     "links": "Museum BrediusDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx",
     "title": "Museum Bredius DEN HAAG",
     "smalltitle": "",
     "address": "Lange Vijverberg 14\n2513AC  DEN HAAG\n\n\t\t\t\t            070 3620729",
@@ -2861,7 +2861,7 @@
   },
   {
     "links": "Stedelijk Museum 's Hertogenbo'S HERTOGENBOSCHDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx",
     "title": "Stedelijk Museum 's Hertogenbosch 'S HERTOGENBOSCH",
     "smalltitle": "",
     "address": "",
@@ -2872,7 +2872,7 @@
   },
   {
     "links": "MicropiaAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx",
     "title": "Micropia AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -2883,7 +2883,7 @@
   },
   {
     "links": "Dit museum is kidsproofTechniekmuseum HEIMHENGELODit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx",
     "title": "Techniekmuseum HEIM HENGELO",
     "smalltitle": "",
     "address": "",
@@ -2894,7 +2894,7 @@
   },
   {
     "links": "Dit museum is kidsproofGeoFortHERWIJNENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx",
     "title": "GeoFort HERWIJNEN",
     "smalltitle": "",
     "address": "Nieuwe Steeg 74\n4171KG  HERWIJNEN\n\n\t\t\t\t            0345 - 630480",
@@ -2905,7 +2905,7 @@
   },
   {
     "links": "Instituut Collectie KropSTEENWIJKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx",
     "title": "Instituut Collectie Krop STEENWIJK",
     "smalltitle": "STEENWIJK",
     "address": "",
@@ -2916,7 +2916,7 @@
   },
   {
     "links": "Museum BussemakerhuisBORNEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx",
     "title": "Museum Bussemakerhuis BORNE",
     "smalltitle": "",
     "address": "Ennekerdijk 11\n7622 ED  BORNE\n\n\t\t\t\t            (074) 266 96 36",
@@ -2927,7 +2927,7 @@
   },
   {
     "links": "Museum NijkerkNIJKERKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx",
     "title": "Museum Nijkerk NIJKERK",
     "smalltitle": "",
     "address": "",
@@ -2938,7 +2938,7 @@
   },
   {
     "links": "Museum Stad AppingedamAPPINGEDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx",
     "title": "Museum Stad Appingedam APPINGEDAM",
     "smalltitle": "",
     "address": "",
@@ -2949,7 +2949,7 @@
   },
   {
     "links": "Tassenmuseum HendrikjeAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx",
     "title": "Tassenmuseum Hendrikje AMSTERDAM",
     "smalltitle": "",
     "address": "Herengracht 573\n1017CD  AMSTERDAM\n\n\t\t\t\t            020 5246452",
@@ -2960,7 +2960,7 @@
   },
   {
     "links": "Dit museum is kidsproofTechniekmuseum HEIMHENGELODit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx",
     "title": "Techniekmuseum HEIM HENGELO",
     "smalltitle": "HENGELO",
     "address": "",
@@ -2971,7 +2971,7 @@
   },
   {
     "links": "Natuurmuseum NijmegenNIJMEGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natuurmuseum+Nijmegen/Natuurmuseum+Nijmegen.aspx",
     "title": "Natuurmuseum Nijmegen NIJMEGEN",
     "smalltitle": "NIJMEGEN",
     "address": "",
@@ -2982,7 +2982,7 @@
   },
   {
     "links": "Heerenveen Museum HEERENVEENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx",
     "title": "Heerenveen Museum  HEERENVEEN",
     "smalltitle": "",
     "address": "",
@@ -2993,7 +2993,7 @@
   },
   {
     "links": "Museum SchoklandSCHOKLANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx",
     "title": "Museum Schokland SCHOKLAND",
     "smalltitle": "",
     "address": "Middelbuurt 3\n8319AB  SCHOKLAND\n\n\t\t\t\t            0527 - 251396",
@@ -3004,7 +3004,7 @@
   },
   {
     "links": "Dit museum is kidsproofNatura Docet Wonderryck TwenteDENEKAMPDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx",
     "title": "Natura Docet Wonderryck Twente DENEKAMP",
     "smalltitle": "DENEKAMP",
     "address": "",
@@ -3015,7 +3015,7 @@
   },
   {
     "links": "Museum de FundatieZWOLLEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx",
     "title": "Museum de Fundatie ZWOLLE",
     "smalltitle": "",
     "address": "",
@@ -3026,7 +3026,7 @@
   },
   {
     "links": "HeksenwaagOUDEWATERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx",
     "title": "Heksenwaag OUDEWATER",
     "smalltitle": "OUDEWATER",
     "address": "",
@@ -3037,7 +3037,7 @@
   },
   {
     "links": "Dit museum is kidsproofMuseum VolkenkundeLEIDENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx",
     "title": "Museum Volkenkunde LEIDEN",
     "smalltitle": "",
     "address": "",
@@ -3048,7 +3048,7 @@
   },
   {
     "links": "Dit museum is kidsproofNatura Docet Wonderryck TwenteDENEKAMPDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx",
     "title": "Natura Docet Wonderryck Twente DENEKAMP",
     "smalltitle": "",
     "address": "",
@@ -3059,7 +3059,7 @@
   },
   {
     "links": "Brabants Museum Oud OosterhoutOOSTERHOUTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Brabants+Museum+Oud+Oosterhout/Brabants+Museum+Oud+Oosterhout.aspx",
     "title": "Brabants Museum Oud Oosterhout OOSTERHOUT",
     "smalltitle": "OOSTERHOUT",
     "address": "",
@@ -3070,7 +3070,7 @@
   },
   {
     "links": "Museum Rotterdam ROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Rotterdam+/Museum+Rotterdam+.aspx",
     "title": "Museum Rotterdam  ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3081,7 +3081,7 @@
   },
   {
     "links": "Kasteel HernenHERNENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx",
     "title": "Kasteel Hernen HERNEN",
     "smalltitle": "",
     "address": "Dorpsstraat 40\n6616AH  HERNEN\n\n\t\t\t\t            0487 – 531976",
@@ -3092,7 +3092,7 @@
   },
   {
     "links": "Stadsmuseum SteenwijkSTEENWIJKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx",
     "title": "Stadsmuseum Steenwijk STEENWIJK",
     "smalltitle": "STEENWIJK",
     "address": "",
@@ -3103,7 +3103,7 @@
   },
   {
     "links": "Kasteel HernenHERNENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx",
     "title": "Kasteel Hernen HERNEN",
     "smalltitle": "HERNEN",
     "address": "",
@@ -3114,7 +3114,7 @@
   },
   {
     "links": "De LooierijDONGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/De+Looierij/Museum+De+Looierij.aspx",
     "title": "De Looierij DONGEN",
     "smalltitle": "",
     "address": "",
@@ -3125,7 +3125,7 @@
   },
   {
     "links": "Het Noordbrabants Museum'S HERTOGENBOSCHDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx",
     "title": "Het Noordbrabants Museum 'S HERTOGENBOSCH",
     "smalltitle": "",
     "address": "",
@@ -3136,7 +3136,7 @@
   },
   {
     "links": "Dit museum is kidsproofKoninklijk Paleis AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx",
     "title": "Koninklijk Paleis Amsterdam AMSTERDAM",
     "smalltitle": "AMSTERDAM",
     "address": "",
@@ -3147,7 +3147,7 @@
   },
   {
     "links": "Nationaal ArchiefDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Archief/Nationaal+Archief.aspx",
     "title": "Nationaal Archief DEN HAAG",
     "smalltitle": "",
     "address": "",
@@ -3158,7 +3158,7 @@
   },
   {
     "links": "Kempenmuseum De Acht ZalighedeEERSELDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx",
     "title": "Kempenmuseum De Acht Zaligheden EERSEL",
     "smalltitle": "",
     "address": "",
@@ -3169,7 +3169,7 @@
   },
   {
     "links": "Het Nieuwe InstituutROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx",
     "title": "Het Nieuwe Instituut ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3180,7 +3180,7 @@
   },
   {
     "links": "Stadsmuseum DoetinchemDOETINCHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx",
     "title": "Stadsmuseum Doetinchem DOETINCHEM",
     "smalltitle": "",
     "address": "",
@@ -3191,7 +3191,7 @@
   },
   {
     "links": "Landbouw-Juttersmuseum 'SwartwBUREN-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx",
     "title": "Landbouw-Juttersmuseum 'Swartwoude' BUREN-AMELAND",
     "smalltitle": "BUREN-AMELAND",
     "address": "",
@@ -3202,7 +3202,7 @@
   },
   {
     "links": "De Casteelse PoortWAGENINGENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/De+Casteelse+Poort/Historisch+Museum+De+Casteelse+Poort.aspx",
     "title": "De Casteelse Poort WAGENINGEN",
     "smalltitle": "WAGENINGEN",
     "address": "",
@@ -3213,7 +3213,7 @@
   },
   {
     "links": "Kasteel HeeswijkHEESWIJK-DINTHERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx",
     "title": "Kasteel Heeswijk HEESWIJK-DINTHER",
     "smalltitle": "",
     "address": "",
@@ -3224,7 +3224,7 @@
   },
   {
     "links": "Cultuur-Historisch Museum SorgHOLLUM-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx",
     "title": "Cultuur-Historisch Museum Sorgdrager HOLLUM-AMELAND",
     "smalltitle": "",
     "address": "",
@@ -3235,7 +3235,7 @@
   },
   {
     "links": "Rotterdams Radio MuseumROTTERDAMDe Museumkaart is niet geldig in dit museum",
-    "links-href": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx",
     "title": "Rotterdams Radio Museum ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3246,7 +3246,7 @@
   },
   {
     "links": "ZoutmuseumDELDENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Zoutmuseum/Zoutmuseum+Delden.aspx",
     "title": "Zoutmuseum DELDEN",
     "smalltitle": "",
     "address": "",
@@ -3257,7 +3257,7 @@
   },
   {
     "links": "Museum de FundatieZWOLLEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+de+Fundatie/Museum+de+Fundatie+Zwolle.aspx",
     "title": "Museum de Fundatie ZWOLLE",
     "smalltitle": "",
     "address": "",
@@ -3268,7 +3268,7 @@
   },
   {
     "links": "Biesbosch MuseumEilandWERKENDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx",
     "title": "Biesbosch MuseumEiland WERKENDAM",
     "smalltitle": "",
     "address": "Hilweg  2\n4251MT  WERKENDAM\n\n\t\t\t\t            0183 - 50 40 09",
@@ -3279,7 +3279,7 @@
   },
   {
     "links": "Portugese Synagoge AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx",
     "title": "Portugese Synagoge Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "Meestervisserplein 3\n1011RD  AMSTERDAM\n\n\t\t\t\t            020 - 6245351",
@@ -3290,7 +3290,7 @@
   },
   {
     "links": "Museum De WiegerDEURNEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx",
     "title": "Museum De Wieger DEURNE",
     "smalltitle": "",
     "address": "",
@@ -3301,7 +3301,7 @@
   },
   {
     "links": "Nederlands VolksbuurtmuseumUTRECHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx",
     "title": "Nederlands Volksbuurtmuseum UTRECHT",
     "smalltitle": "",
     "address": "",
@@ -3312,7 +3312,7 @@
   },
   {
     "links": "Het Noordbrabants Museum'S HERTOGENBOSCHDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx",
     "title": "Het Noordbrabants Museum 'S HERTOGENBOSCH",
     "smalltitle": "'S HERTOGENBOSCH",
     "address": "",
@@ -3323,7 +3323,7 @@
   },
   {
     "links": "Dit museum is kidsproofMuseum VolkenkundeLEIDENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Volkenkunde/Museum+Volkenkunde.aspx",
     "title": "Museum Volkenkunde LEIDEN",
     "smalltitle": "",
     "address": "",
@@ -3334,7 +3334,7 @@
   },
   {
     "links": "Stadsmuseum SteenwijkSTEENWIJKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx",
     "title": "Stadsmuseum Steenwijk STEENWIJK",
     "smalltitle": "",
     "address": "",
@@ -3345,7 +3345,7 @@
   },
   {
     "links": "Dit museum is kidsproofNederlands OpenluchtmuseumARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx",
     "title": "Nederlands Openluchtmuseum ARNHEM",
     "smalltitle": "",
     "address": "",
@@ -3356,7 +3356,7 @@
   },
   {
     "links": "JenevermuseumSCHIEDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Jenevermuseum/Nationaal+Jenevermuseum+Schiedam.aspx",
     "title": "Jenevermuseum SCHIEDAM",
     "smalltitle": "SCHIEDAM",
     "address": "",
@@ -3367,7 +3367,7 @@
   },
   {
     "links": "Nationaal Vlasserij-SuikermuseKLUNDERTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx",
     "title": "Nationaal Vlasserij-Suikermuseum KLUNDERT",
     "smalltitle": "",
     "address": "",
@@ -3378,7 +3378,7 @@
   },
   {
     "links": "Museum HaarlemHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Haarlem/Museum+Haarlem.aspx",
     "title": "Museum Haarlem HAARLEM",
     "smalltitle": "HAARLEM",
     "address": "",
@@ -3389,7 +3389,7 @@
   },
   {
     "links": "Kasteel HeeswijkHEESWIJK-DINTHERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Heeswijk/Kasteel+Heeswijk.aspx",
     "title": "Kasteel Heeswijk HEESWIJK-DINTHER",
     "smalltitle": "",
     "address": "",
@@ -3400,7 +3400,7 @@
   },
   {
     "links": "Hermitage AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx",
     "title": "Hermitage Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "Amstel 51\n1018EJ  AMSTERDAM\n\n\t\t\t\t            020 - 53 08 755",
@@ -3411,7 +3411,7 @@
   },
   {
     "links": "Noord-Veluws MuseumNUNSPEETDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Noord-Veluws+Museum/Noord-Veluws+Museum.aspx",
     "title": "Noord-Veluws Museum NUNSPEET",
     "smalltitle": "NUNSPEET",
     "address": "",
@@ -3422,7 +3422,7 @@
   },
   {
     "links": "Museum Stad AppingedamAPPINGEDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Stad+Appingedam/Museum+Stad+Appingedam.aspx",
     "title": "Museum Stad Appingedam APPINGEDAM",
     "smalltitle": "",
     "address": "",
@@ -3433,7 +3433,7 @@
   },
   {
     "links": "Dit museum is kidsproofVerzetsmuseum AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Verzetsmuseum+Amsterdam/Verzetsmuseum+Amsterdam.aspx",
     "title": "Verzetsmuseum Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3444,7 +3444,7 @@
   },
   {
     "links": "Museum BrediusDEN HAAGDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bredius/Museum+Bredius.aspx",
     "title": "Museum Bredius DEN HAAG",
     "smalltitle": "",
     "address": "",
@@ -3455,7 +3455,7 @@
   },
   {
     "links": "Dit museum is kidsproofTechniekmuseum HEIMHENGELODit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Techniekmuseum+HEIM/Techniekmuseum+HEIM.aspx",
     "title": "Techniekmuseum HEIM HENGELO",
     "smalltitle": "",
     "address": "",
@@ -3466,7 +3466,7 @@
   },
   {
     "links": "Landbouw-Juttersmuseum 'SwartwBUREN-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Landbouw-Juttersmuseum+%27Swartwoude%27/Juttersmuseum++Swartwoude.aspx",
     "title": "Landbouw-Juttersmuseum 'Swartwoude' BUREN-AMELAND",
     "smalltitle": "",
     "address": "Hoofdweg 1\n9164KL  BUREN-AMELAND\n\n\t\t\t\t            (0519) 54 28 45",
@@ -3477,7 +3477,7 @@
   },
   {
     "links": "Dit museum is kidsproofTeylers MuseumHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx",
     "title": "Teylers Museum HAARLEM",
     "smalltitle": "",
     "address": "",
@@ -3488,7 +3488,7 @@
   },
   {
     "links": "Huis ZypendaalARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Huis+Zypendaal/Huis+Zypendaal.aspx",
     "title": "Huis Zypendaal ARNHEM",
     "smalltitle": "",
     "address": "",
@@ -3499,7 +3499,7 @@
   },
   {
     "links": "Het Nieuwe InstituutROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Het+Nieuwe+Instituut/Het+Nieuwe+Instituut.aspx",
     "title": "Het Nieuwe Instituut ROTTERDAM",
     "smalltitle": "ROTTERDAM",
     "address": "",
@@ -3510,7 +3510,7 @@
   },
   {
     "links": "Biesbosch MuseumEilandWERKENDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx",
     "title": "Biesbosch MuseumEiland WERKENDAM",
     "smalltitle": "",
     "address": "",
@@ -3521,7 +3521,7 @@
   },
   {
     "links": "Het Noordbrabants Museum'S HERTOGENBOSCHDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Het+Noordbrabants+Museum/Het+Noordbrabants+Museum.aspx",
     "title": "Het Noordbrabants Museum 'S HERTOGENBOSCH",
     "smalltitle": "",
     "address": "",
@@ -3532,7 +3532,7 @@
   },
   {
     "links": "Dit museum is kidsproofTeylers MuseumHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx",
     "title": "Teylers Museum HAARLEM",
     "smalltitle": "",
     "address": "Spaarne  16\n2011CH  HAARLEM\n\n\t\t\t\t            023 - 5160960",
@@ -3543,7 +3543,7 @@
   },
   {
     "links": "Dit museum is kidsproofNatura Docet Wonderryck TwenteDENEKAMPDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx",
     "title": "Natura Docet Wonderryck Twente DENEKAMP",
     "smalltitle": "",
     "address": "",
@@ -3554,7 +3554,7 @@
   },
   {
     "links": "Collectie BrandsNIEUW DORDRECHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx",
     "title": "Collectie Brands NIEUW DORDRECHT",
     "smalltitle": "",
     "address": "",
@@ -3565,7 +3565,7 @@
   },
   {
     "links": "Museum SchoklandSCHOKLANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Schokland/Museum+Schokland.aspx",
     "title": "Museum Schokland SCHOKLAND",
     "smalltitle": "",
     "address": "",
@@ -3576,7 +3576,7 @@
   },
   {
     "links": "Natuurhistorisch Museum MaastrMAASTRICHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx",
     "title": "Natuurhistorisch Museum Maastricht MAASTRICHT",
     "smalltitle": "",
     "address": "",
@@ -3587,7 +3587,7 @@
   },
   {
     "links": "Portugese Synagoge AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Portugese+Synagoge+Amsterdam/Portugese+Synagoge.aspx",
     "title": "Portugese Synagoge Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3598,7 +3598,7 @@
   },
   {
     "links": "Museum NijkerkNIJKERKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx",
     "title": "Museum Nijkerk NIJKERK",
     "smalltitle": "",
     "address": "Venestraat 16\n3861BX  NIJKERK\n\n\t\t\t\t            033 - 2457005",
@@ -3609,7 +3609,7 @@
   },
   {
     "links": "MicropiaAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx",
     "title": "Micropia AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3620,7 +3620,7 @@
   },
   {
     "links": "Museum In 't Houten HuisDE RIJPDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx",
     "title": "Museum In 't Houten Huis DE RIJP",
     "smalltitle": "DE RIJP",
     "address": "",
@@ -3631,7 +3631,7 @@
   },
   {
     "links": "Collectie BrandsNIEUW DORDRECHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx",
     "title": "Collectie Brands NIEUW DORDRECHT",
     "smalltitle": "",
     "address": "Herenstreek 11a\n7885AT  NIEUW DORDRECHT\n\n\t\t\t\t            0591-393400",
@@ -3642,7 +3642,7 @@
   },
   {
     "links": "Kempenmuseum De Acht ZalighedeEERSELDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx",
     "title": "Kempenmuseum De Acht Zaligheden EERSEL",
     "smalltitle": "",
     "address": "",
@@ -3653,7 +3653,7 @@
   },
   {
     "links": "Cultuur-Historisch Museum SorgHOLLUM-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cultuur-Historisch+Museum+Sorgdrager/Cultuurhistorisch+Museum+Sorgdrager+.aspx",
     "title": "Cultuur-Historisch Museum Sorgdrager HOLLUM-AMELAND",
     "smalltitle": "HOLLUM-AMELAND",
     "address": "",
@@ -3664,7 +3664,7 @@
   },
   {
     "links": "Nederlands VolksbuurtmuseumUTRECHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx",
     "title": "Nederlands Volksbuurtmuseum UTRECHT",
     "smalltitle": "",
     "address": "Waterstraat  27\n3511BW  UTRECHT\n\n\t\t\t\t            030 - 23 18 292",
@@ -3675,7 +3675,7 @@
   },
   {
     "links": "Nationaal Vlasserij-SuikermuseKLUNDERTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nationaal+Vlasserij-Suikermuseum/Nationaal+Vlasserij-Suikermuseum.aspx",
     "title": "Nationaal Vlasserij-Suikermuseum KLUNDERT",
     "smalltitle": "",
     "address": "",
@@ -3686,7 +3686,7 @@
   },
   {
     "links": "Museum Jan van der TogtAMSTELVEENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Jan+van+der+Togt/Museum+Jan+van+der+Togt.aspx",
     "title": "Museum Jan van der Togt AMSTELVEEN",
     "smalltitle": "",
     "address": "",
@@ -3697,7 +3697,7 @@
   },
   {
     "links": "Museum De WiegerDEURNEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx",
     "title": "Museum De Wieger DEURNE",
     "smalltitle": "",
     "address": "Oude Liesselseweg  29\n5751WN  DEURNE\n\n\t\t\t\t            0493 - 32 29 30",
@@ -3708,7 +3708,7 @@
   },
   {
     "links": "Dit museum is kidsproofKoninklijk Paleis AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Koninklijk+Paleis+Amsterdam/Koninklijk+Paleis+A%27dam.aspx",
     "title": "Koninklijk Paleis Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3719,7 +3719,7 @@
   },
   {
     "links": "Museum Willet-HolthuysenAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx",
     "title": "Museum Willet-Holthuysen AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3730,7 +3730,7 @@
   },
   {
     "links": "Heerenveen Museum HEERENVEENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx",
     "title": "Heerenveen Museum  HEERENVEEN",
     "smalltitle": "",
     "address": "Minckelersstraat 11\n8442CE  HEERENVEEN\n\n\t\t\t\t            0513 - 623 408",
@@ -3741,7 +3741,7 @@
   },
   {
     "links": "Kasteel HernenHERNENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kasteel+Hernen/Kasteel+Hernen.aspx",
     "title": "Kasteel Hernen HERNEN",
     "smalltitle": "",
     "address": "",
@@ -3752,7 +3752,7 @@
   },
   {
     "links": "Titus Brandsma MuseumBOLSWARDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx",
     "title": "Titus Brandsma Museum BOLSWARD",
     "smalltitle": "",
     "address": "Grote Dijlakker 11\n8701KV  BOLSWARD\n\n\t\t\t\t            0515 581799",
@@ -3763,7 +3763,7 @@
   },
   {
     "links": "Touwmuseum 'De Baanschuur'OUDEWATERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx",
     "title": "Touwmuseum 'De Baanschuur' OUDEWATER",
     "smalltitle": "",
     "address": "",
@@ -3774,7 +3774,7 @@
   },
   {
     "links": "MicropiaAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Micropia/Micropia.aspx",
     "title": "Micropia AMSTERDAM",
     "smalltitle": "",
     "address": "Plantage Kerklaan 38-40\n1018CZ  AMSTERDAM\n\n\t\t\t\t            0900 27 84 796",
@@ -3785,7 +3785,7 @@
   },
   {
     "links": "SCHUNCKHEERLENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/SCHUNCK/SCHUNCK+Glaspaleis.aspx",
     "title": "SCHUNCK HEERLEN",
     "smalltitle": "",
     "address": "",
@@ -3796,7 +3796,7 @@
   },
   {
     "links": "Touwmuseum 'De Baanschuur'OUDEWATERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Touwmuseum+%27De+Baanschuur%27/Touwmuseum+De+Baanschuur.aspx",
     "title": "Touwmuseum 'De Baanschuur' OUDEWATER",
     "smalltitle": "",
     "address": "Reijersteeg 4\n3421SG  OUDEWATER\n\n\t\t\t\t            0348-561628",
@@ -3807,7 +3807,7 @@
   },
   {
     "links": "Natuurhistorisch Museum MaastrMAASTRICHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natuurhistorisch+Museum+Maastricht/Natuurhistorisch+Museum+Maastricht.aspx",
     "title": "Natuurhistorisch Museum Maastricht MAASTRICHT",
     "smalltitle": "",
     "address": "",
@@ -3818,7 +3818,7 @@
   },
   {
     "links": "Museum NijkerkNIJKERKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Nijkerk/Museum+Nijkerk.aspx",
     "title": "Museum Nijkerk NIJKERK",
     "smalltitle": "",
     "address": "",
@@ -3829,7 +3829,7 @@
   },
   {
     "links": "Amsterdam Pipe MuseumAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Amsterdam+Pipe+Museum/Amsterdam+Pipe+Museum.aspx",
     "title": "Amsterdam Pipe Museum AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3840,7 +3840,7 @@
   },
   {
     "links": "Katwijks MuseumKATWIJK AAN ZEEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Katwijks+Museum/Katwijks+Museum.aspx",
     "title": "Katwijks Museum KATWIJK AAN ZEE",
     "smalltitle": "",
     "address": "",
@@ -3851,7 +3851,7 @@
   },
   {
     "links": "Tassenmuseum HendrikjeAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx",
     "title": "Tassenmuseum Hendrikje AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3862,7 +3862,7 @@
   },
   {
     "links": "Rotterdams Radio MuseumROTTERDAMDe Museumkaart is niet geldig in dit museum",
-    "links-href": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Rotterdams+Radio+Museum/Rotterdams+Radio+Museum.aspx",
     "title": "Rotterdams Radio Museum ROTTERDAM",
     "smalltitle": "",
     "address": "",
@@ -3873,7 +3873,7 @@
   },
   {
     "links": "Stedelijk Museum 's Hertogenbo'S HERTOGENBOSCHDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx",
     "title": "Stedelijk Museum 's Hertogenbosch 'S HERTOGENBOSCH",
     "smalltitle": "",
     "address": "",
@@ -3884,7 +3884,7 @@
   },
   {
     "links": "Museum de KantfabriekHORSTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx",
     "title": "Museum de Kantfabriek HORST",
     "smalltitle": "HORST",
     "address": "",
@@ -3895,7 +3895,7 @@
   },
   {
     "links": "Museum De WiegerDEURNEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+De+Wieger/Museum+De+Wieger.aspx",
     "title": "Museum De Wieger DEURNE",
     "smalltitle": "DEURNE",
     "address": "",
@@ -3906,7 +3906,7 @@
   },
   {
     "links": "Stadsmuseum DoetinchemDOETINCHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx",
     "title": "Stadsmuseum Doetinchem DOETINCHEM",
     "smalltitle": "",
     "address": "",
@@ -3917,7 +3917,7 @@
   },
   {
     "links": "Nederlands VolksbuurtmuseumUTRECHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nederlands+Volksbuurtmuseum/Nederlands+Volksbuurtmuseum+.aspx",
     "title": "Nederlands Volksbuurtmuseum UTRECHT",
     "smalltitle": "",
     "address": "",
@@ -3928,7 +3928,7 @@
   },
   {
     "links": "Stadsmuseum DoetinchemDOETINCHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stadsmuseum+Doetinchem/Stadsmuseum+Doetinchem.aspx",
     "title": "Stadsmuseum Doetinchem DOETINCHEM",
     "smalltitle": "",
     "address": "",
@@ -3939,7 +3939,7 @@
   },
   {
     "links": "Cube Design MuseumKERKRADEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx",
     "title": "Cube Design Museum KERKRADE",
     "smalltitle": "",
     "address": "",
@@ -3950,7 +3950,7 @@
   },
   {
     "links": "Dit museum is kidsproofNatura Docet Wonderryck TwenteDENEKAMPDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Natura+Docet+Wonderryck+Twente/Natura+Docet+Wonderryck+Twente.aspx",
     "title": "Natura Docet Wonderryck Twente DENEKAMP",
     "smalltitle": "",
     "address": "Oldenzaalsestraat  39\n7591GL  DENEKAMP\n\n\t\t\t\t            0541 - 35 13 25",
@@ -3961,7 +3961,7 @@
   },
   {
     "links": "Museum In 't Houten HuisDE RIJPDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+In+%27t+Houten+Huis/Museum+In+%27t+Houten+Huis.aspx",
     "title": "Museum In 't Houten Huis DE RIJP",
     "smalltitle": "",
     "address": "",
@@ -3972,7 +3972,7 @@
   },
   {
     "links": "Streekmuseum-VolkssterrenwachtBURGUMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Streekmuseum-Volkssterrenwacht+Burgum/Streekmuseum+Volkssterrenwacht+Burgum.aspx",
     "title": "Streekmuseum-Volkssterrenwacht Burgum BURGUM",
     "smalltitle": "BURGUM",
     "address": "",
@@ -3983,7 +3983,7 @@
   },
   {
     "links": "Museum BronbeekARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bronbeek/Museum+Bronbeek.aspx",
     "title": "Museum Bronbeek ARNHEM",
     "smalltitle": "ARNHEM",
     "address": "",
@@ -3994,7 +3994,7 @@
   },
   {
     "links": "DAF MuseumEINDHOVENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx",
     "title": "DAF Museum EINDHOVEN",
     "smalltitle": "EINDHOVEN",
     "address": "",
@@ -4005,7 +4005,7 @@
   },
   {
     "links": "Stedelijk Museum 's Hertogenbo'S HERTOGENBOSCHDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx",
     "title": "Stedelijk Museum 's Hertogenbosch 'S HERTOGENBOSCH",
     "smalltitle": "'S HERTOGENBOSCH",
     "address": "",
@@ -4016,7 +4016,7 @@
   },
   {
     "links": "Titus Brandsma MuseumBOLSWARDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Titus+Brandsma+Museum/Titus+Brandsma+Museum.aspx",
     "title": "Titus Brandsma Museum BOLSWARD",
     "smalltitle": "BOLSWARD",
     "address": "",
@@ -4027,7 +4027,7 @@
   },
   {
     "links": "Cromhouthuis │ Bijbels MuseumAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cromhouthuis+%e2%94%82+Bijbels+Museum/Cromhouthuis+%e2%94%82+Bijbels+Museum.aspx",
     "title": "Cromhouthuis │ Bijbels Museum AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -4038,7 +4038,7 @@
   },
   {
     "links": "Maritiem Centrum \"Abraham FockHOLLUM-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx",
     "title": "Maritiem Centrum \"Abraham Fock\" HOLLUM-AMELAND",
     "smalltitle": "",
     "address": "",
@@ -4049,7 +4049,7 @@
   },
   {
     "links": "Tassenmuseum HendrikjeAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Tassenmuseum+Hendrikje/Tassenmuseum+Hendrikje.aspx",
     "title": "Tassenmuseum Hendrikje AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -4060,7 +4060,7 @@
   },
   {
     "links": "Collectie BrandsNIEUW DORDRECHTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Collectie+Brands/Collectie+Brands.aspx",
     "title": "Collectie Brands NIEUW DORDRECHT",
     "smalltitle": "",
     "address": "",
@@ -4071,7 +4071,7 @@
   },
   {
     "links": "Dit museum is kidsproofTeylers MuseumHAARLEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Teylers+Museum/Teylers+Museum.aspx",
     "title": "Teylers Museum HAARLEM",
     "smalltitle": "HAARLEM",
     "address": "",
@@ -4082,7 +4082,7 @@
   },
   {
     "links": "Museum BussemakerhuisBORNEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx",
     "title": "Museum Bussemakerhuis BORNE",
     "smalltitle": "BORNE",
     "address": "",
@@ -4093,7 +4093,7 @@
   },
   {
     "links": "Maritiem Centrum \"Abraham FockHOLLUM-AMELANDDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Maritiem+Centrum+%22Abraham+Fock%22/Mar.+Centrum+Abraham+Fock.aspx",
     "title": "Maritiem Centrum \"Abraham Fock\" HOLLUM-AMELAND",
     "smalltitle": "",
     "address": "Oranjeweg 18\n9161CC  HOLLUM-AMELAND\n\n\t\t\t\t            (0519) 55 42 43",
@@ -4104,7 +4104,7 @@
   },
   {
     "links": "Museum de KantfabriekHORSTDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+de+Kantfabriek/De+Kantfabriek.aspx",
     "title": "Museum de Kantfabriek HORST",
     "smalltitle": "",
     "address": "",
@@ -4115,7 +4115,7 @@
   },
   {
     "links": "Museum Willet-HolthuysenAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Willet-Holthuysen/Museum+Willet-Holthuysen.aspx",
     "title": "Museum Willet-Holthuysen AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -4126,7 +4126,7 @@
   },
   {
     "links": "Dit museum is kidsproofNederlands OpenluchtmuseumARNHEMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Nederlands+Openluchtmuseum/Nederlands+Openluchtmuseum.aspx",
     "title": "Nederlands Openluchtmuseum ARNHEM",
     "smalltitle": "",
     "address": "",
@@ -4137,7 +4137,7 @@
   },
   {
     "links": "Instituut Collectie KropSTEENWIJKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Instituut+Collectie+Krop/Instituut+Hildo+Krop.aspx",
     "title": "Instituut Collectie Krop STEENWIJK",
     "smalltitle": "",
     "address": "Gasthuislaan 2\n8331MX  STEENWIJK\n\n\t\t\t\t            052 151 3657",
@@ -4148,7 +4148,7 @@
   },
   {
     "links": "Hermitage AmsterdamAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Hermitage+Amsterdam/Hermitage+Amsterdam.aspx",
     "title": "Hermitage Amsterdam AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -4159,7 +4159,7 @@
   },
   {
     "links": "DAF MuseumEINDHOVENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/DAF+Museum/DAF+Museum.aspx",
     "title": "DAF Museum EINDHOVEN",
     "smalltitle": "",
     "address": "",
@@ -4170,7 +4170,7 @@
   },
   {
     "links": "HeksenwaagOUDEWATERDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Heksenwaag/Heksenwaag.aspx",
     "title": "Heksenwaag OUDEWATER",
     "smalltitle": "",
     "address": "",
@@ -4181,7 +4181,7 @@
   },
   {
     "links": "Stedelijk Museum 's Hertogenbo'S HERTOGENBOSCHDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stedelijk+Museum+%27s+Hertogenbosch/Stedelijk+Museum+s-Hertogenbosch.aspx",
     "title": "Stedelijk Museum 's Hertogenbosch 'S HERTOGENBOSCH",
     "smalltitle": "",
     "address": "De Mortel 4\n5211HV  'S HERTOGENBOSCH\n\n\t\t\t\t            073 - 6273680",
@@ -4192,7 +4192,7 @@
   },
   {
     "links": "Cube Design MuseumKERKRADEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Cube+Design+Museum/Cube+design+museum.aspx",
     "title": "Cube Design Museum KERKRADE",
     "smalltitle": "",
     "address": "",
@@ -4203,7 +4203,7 @@
   },
   {
     "links": "Kempenmuseum De Acht ZalighedeEERSELDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Kempenmuseum+De+Acht+Zaligheden/Kempenmuseum+De+Acht+Zaligheden.aspx",
     "title": "Kempenmuseum De Acht Zaligheden EERSEL",
     "smalltitle": "EERSEL",
     "address": "",
@@ -4214,7 +4214,7 @@
   },
   {
     "links": "de Appel arts centreAMSTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/de+Appel+arts+centre/de+Appel+arts+centre.aspx",
     "title": "de Appel arts centre AMSTERDAM",
     "smalltitle": "",
     "address": "",
@@ -4225,7 +4225,7 @@
   },
   {
     "links": "Heerenveen Museum HEERENVEENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Heerenveen+Museum+/Heerenveen+Museum.aspx",
     "title": "Heerenveen Museum  HEERENVEEN",
     "smalltitle": "",
     "address": "",
@@ -4236,7 +4236,7 @@
   },
   {
     "links": "Museum BussemakerhuisBORNEDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Museum+Bussemakerhuis/Museum+Bussemakerhuis.aspx",
     "title": "Museum Bussemakerhuis BORNE",
     "smalltitle": "",
     "address": "",
@@ -4247,7 +4247,7 @@
   },
   {
     "links": "Stadsmuseum SteenwijkSTEENWIJKDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Stadsmuseum+Steenwijk/Stadsmuseum+Steenwijk.aspx",
     "title": "Stadsmuseum Steenwijk STEENWIJK",
     "smalltitle": "",
     "address": "",
@@ -4258,7 +4258,7 @@
   },
   {
     "links": "Biesbosch MuseumEilandWERKENDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Biesbosch+MuseumEiland/Biesbosch+MuseumEiland.aspx",
     "title": "Biesbosch MuseumEiland WERKENDAM",
     "smalltitle": "",
     "address": "",
@@ -4269,7 +4269,7 @@
   },
   {
     "links": "MariniersmuseumROTTERDAMDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/Mariniersmuseum/Mariniersmuseum.aspx",
     "title": "Mariniersmuseum ROTTERDAM",
     "smalltitle": "ROTTERDAM",
     "address": "",
@@ -4280,7 +4280,7 @@
   },
   {
     "links": "Dit museum is kidsproofGeoFortHERWIJNENDit museum accepteert de Museumkaart",
-    "links-href": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx",
+    "linkshref": "https://www.museumkaart.nl/museum/GeoFort/Geofort.aspx",
     "title": "GeoFort HERWIJNEN",
     "smalltitle": "",
     "address": "",

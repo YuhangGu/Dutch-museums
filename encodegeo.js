@@ -12,7 +12,6 @@ fs.readFile('data/museums.json', 'utf8', function (err, museumsdata) {
     //console.log(museumsdata);
 
 
-
     if (err) throw err;
     museums = JSON.parse(museumsdata);
 
@@ -40,6 +39,8 @@ fs.readFile('data/museums.json', 'utf8', function (err, museumsdata) {
         var lat_string = stringlink.substr(index_strat+3, lat_lenth);
         var log_string = stringlink.substr(index_coma+1, log_lenth);
 
+        var website = d.linkshref;
+
 
         if(stringlink != "")
         {
@@ -49,7 +50,8 @@ fs.readFile('data/museums.json', 'utf8', function (err, museumsdata) {
             var item = {
                 "type" : "Feature",
                 "properties" : {
-                    "name" : d.title
+                    "name" : d.title,
+                    "website" : website
                 },
                 "geometry": {
                     "type": "Point",
