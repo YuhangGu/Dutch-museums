@@ -154,7 +154,6 @@
             var lat = d.geometry.coordinates[0];
             var log = d.geometry.coordinates[1];
 
-            console.log(lat,log);
 
             var marker = L.mapbox.featureLayer({
                 type: 'Feature',
@@ -164,7 +163,7 @@
                 },
                 properties: {
                     title: d.properties.name,
-                    'marker-color': '#f86767'
+                    'marker-color': '#46b39d'
                 }
             }).addTo(map);
         });
