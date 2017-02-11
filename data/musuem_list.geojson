@@ -1,0 +1,1022 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heksenwaag OUDEWATER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8722829",
+                    "52.023316"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jenevermuseum SCHIEDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.3973669",
+                    "51.9152562"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dolhuys, museum van de geest HAARLEM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.6380441",
+                    "52.3904748"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mariniersmuseum ROTTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.4915599",
+                    "51.9187084"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stadsmuseum Steenwijk STEENWIJK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.1168929",
+                    "52.7864736"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Titus Brandsma Museum BOLSWARD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.5230716",
+                    "53.0632181"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Het Nieuwe Instituut ROTTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.47332",
+                    "51.912667"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Jan van der Togt AMSTELVEEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8468865",
+                    "52.3022822"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Instituut Collectie Krop STEENWIJK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.112294",
+                    "52.78535"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum 'De Tien Malen' PUTTEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.6263604",
+                    "52.2518369"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum de Fundatie ZWOLLE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.0914793",
+                    "52.510222"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stichting De Nollen DEN HELDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.7553554",
+                    "52.9336734"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum de Kantfabriek HORST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.0489714",
+                    "51.4511335"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Dorestad WIJK BIJ DUURSTEDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.3448116",
+                    "51.9706038"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Volkenkunde LEIDEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.4841495",
+                    "52.1635903"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Techniekmuseum HEIM HENGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.7890442",
+                    "52.2586988"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Hindeloopen HINDELOOPEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.3986164",
+                    "52.9432849"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCHUNCK HEERLEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.9793958",
+                    "50.8878904"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Streekmuseum-Volkssterrenwacht Burgum BURGUM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.000474",
+                    "53.204089"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Haarlem HAARLEM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.6340112",
+                    "52.3770933"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DAF Museum EINDHOVEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.4904263",
+                    "51.4371884"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Huis Verwolde LAREN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.3919699",
+                    "52.2004809"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gemeentemuseum Den Haag DEN HAAG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.2798757",
+                    "52.0892033"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Bronbeek ARNHEM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.9502132",
+                    "51.9950956"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "De Casteelse Poort WAGENINGEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.6656864",
+                    "51.9648075"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zoutmuseum DELDEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.7124824",
+                    "52.2628096"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Noord-Veluws Museum NUNSPEET"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.780778",
+                    "52.374259"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Landbouw-Juttersmuseum 'Swartwoude' BUREN-AMELAND"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.7969104",
+                    "53.4473627"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brabants Museum Oud Oosterhout OOSTERHOUT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8418875",
+                    "51.6314863"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stedelijk Museum Amsterdam AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.879776",
+                    "52.358217"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cultuur-Historisch Museum Sorgdrager HOLLUM-AMELAND"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.6412031",
+                    "53.4379893"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Streekmuseum Krimpenerwaard KRIMPEN A/D  IJSSEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.5881167",
+                    "51.9199708"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Verzetsmuseum Amsterdam AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.9129312",
+                    "52.3677549"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum In 't Houten Huis DE RIJP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8532225",
+                    "52.559357"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cromhouthuis │ Bijbels Museum AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8863555",
+                    "52.3685341"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Stad Appingedam APPINGEDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.85767",
+                    "53.3203282"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Natuurmuseum Nijmegen NIJMEGEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.8704008",
+                    "51.8445895"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kasteel Hernen HERNEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.6762692",
+                    "51.8345052"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nederlands Openluchtmuseum ARNHEM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.9072065",
+                    "52.0081199"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "de Appel arts centre AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.9062831",
+                    "52.3734424"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museumstoomtram Hoorn-Medemblik HOORN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.0542784",
+                    "52.6465143"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hermitage Amsterdam AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.9025421",
+                    "52.365312"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nationaal Reddingmuseum Dorus Rijkers DEN HELDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.7686647",
+                    "52.9584449"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Schokland SCHOKLAND"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.7774684",
+                    "52.6349239"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Portugese Synagoge Amsterdam AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.9047165",
+                    "52.3677763"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Koninklijk Paleis Amsterdam AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8936305",
+                    "52.3733053"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Katwijks Museum KATWIJK AAN ZEE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.3970676",
+                    "52.2036993"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maritiem Centrum \"Abraham Fock\" HOLLUM-AMELAND"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.636914",
+                    "53.4430478"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kasteel Hoensbroek HOENSBROEK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.9180495",
+                    "50.9166382"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amsterdam Pipe Museum AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8852981",
+                    "52.3641618"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Bredius DEN HAAG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.3124908",
+                    "52.0812446"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nationaal Archief DEN HAAG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.326427",
+                    "52.081128"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heerenveen Museum  HEERENVEEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.9274",
+                    "52.9565"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Bussemakerhuis BORNE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.7606359",
+                    "52.2993296"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GeoFort HERWIJNEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.125381",
+                    "51.86628"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stedelijk Museum 's Hertogenbosch 'S HERTOGENBOSCH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.303821",
+                    "51.686084"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Nijkerk NIJKERK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.4834549",
+                    "52.2220207"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Rotterdam  ROTTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.4808913",
+                    "51.9220608"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "De Looierij DONGEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.9331623",
+                    "51.6237322"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Het Noordbrabants Museum 'S HERTOGENBOSCH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.3047164",
+                    "51.6865776"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rotterdams Radio Museum ROTTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.4796253",
+                    "51.9422104"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum De Wieger DEURNE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.7960702",
+                    "51.4589458"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nederlands Volksbuurtmuseum UTRECHT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.1147226",
+                    "52.0952404"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kasteel Heeswijk HEESWIJK-DINTHER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.4411624",
+                    "51.6558623"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Teylers Museum HAARLEM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.6403448",
+                    "52.3803511"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Huis Zypendaal ARNHEM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.8987296",
+                    "51.9851034"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Natura Docet Wonderryck Twente DENEKAMP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.0014928",
+                    "52.3707879"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Micropia AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.9125816",
+                    "52.3669614"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kempenmuseum De Acht Zaligheden EERSEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.3117056",
+                    "51.3534279"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nationaal Vlasserij-Suikermuseum KLUNDERT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.5260717",
+                    "51.6596386"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Museum Willet-Holthuysen AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8990152",
+                    "52.365603"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Touwmuseum 'De Baanschuur' OUDEWATER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8718956",
+                    "52.0245079"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Natuurhistorisch Museum Maastricht MAASTRICHT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.687791",
+                    "50.8448538"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stadsmuseum Doetinchem DOETINCHEM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.2897361",
+                    "51.9672011"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cube Design Museum KERKRADE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.058568",
+                    "50.86153"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tassenmuseum Hendrikje AMSTERDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8968616",
+                    "52.3651807"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Collectie Brands NIEUW DORDRECHT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.9699835",
+                    "52.7501501"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Biesbosch MuseumEiland WERKENDAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.7717207",
+                    "51.7653936"
+                ]
+            }
+        }
+    ]
+}
