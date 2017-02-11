@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca81cb4c-46a5-4ee5-96ba-e8e320439f1e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/canvasjs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/canvasjs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/d3-map-example.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/d3.geo.projection.v0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/d3.v3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/flamingo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/flowmap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/icedemo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/map-box-example.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/mapbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/mapboxZhengzhou.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/module12.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sankeydemo.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Dutch-museums.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,11 +26,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6">
-              <caret line="229" column="0" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.15">
+              <caret line="6" column="103" selection-start-line="6" selection-start-column="103" selection-end-line="6" selection-end-column="103" />
               <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#6446#6767#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -219,14 +204,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/codebiketrips-togeo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/musuem_list.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.666667">
@@ -255,11 +232,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6">
-          <caret line="229" column="0" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.15">
+          <caret line="6" column="103" selection-start-line="6" selection-start-column="103" selection-end-line="6" selection-end-column="103" />
           <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#6446#6767#0" expanded="false" />
           </folding>
         </state>
       </provider>
