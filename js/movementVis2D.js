@@ -69,20 +69,18 @@ var Vis = {
 //--------------- main ---------------
 function visualizeIn2D() {
 
-    initDataStucture(initializeUI);
+    initDataStucture(initializeUI(initializeFlowmap(initBarChart, initChordChart)));
 
-    initializeFlowmap();
-    initBarChart();
-    initChordChart();
+    //initializeFlowmap();
+    //initBarChart();
+    //initChordChart();
 
 }
 
 function initDataStucture(callback) {
 
     Vis.timeStructureRoutes = d3.nest().key(function (d) {
-        return d.year;
-    }).sortKeys(d3.ascending)
-        .entries(dataShipment);
+        return d.year;}).sortKeys(d3.ascending).entries(dataShipment);
 
     Vis.locationStructureRoutes = d3.nest().key(function (d) {
         return d.originNati;
@@ -115,7 +113,7 @@ function initDataStucture(callback) {
     setTimeout(callback , 200);
 }
 
-function initializeUI(){
+function initializeUI(callback){
 
     mySlider = $('#ex1').bootstrapSlider({
         max : Vis.yearArr.length - 1,
@@ -154,6 +152,7 @@ function initializeUI(){
 
     });
 
+    setTimeout(callback , 200);
 }
 
 function initBarChart() {
@@ -224,7 +223,7 @@ function initBarChart() {
 }
 
 //--------------- init flowmap ------------------
-function initializeFlowmap() {
+function initializeFlowmap(callback1,callback2) {
 
     Vis.linerValueScale = d3.scaleLinear().domain([0,maxForScale]).range([0,20]);
 
@@ -312,6 +311,10 @@ function initializeFlowmap() {
 
     //drawFlowsByYear(-1, checkboxStatue);
     //drawFlowsOn2DMap(1);
+
+
+    setTimeout(callback1 , 200);
+    setTimeout(callback2 , 200);
 }
 
 function updateViews(yearslected, checkboxStatue) {
