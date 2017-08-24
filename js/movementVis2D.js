@@ -152,11 +152,6 @@ function initializeUI(callback){
 
     });
 
-    Vis.zoom = d3.behavior.zoom()
-        .translate([0, 0])
-        .scale(1)
-        .scaleExtent([1, 8])
-        .on("zoom", zoomed);
     
     setTimeout(callback , 200);
 }
@@ -245,21 +240,10 @@ function initializeFlowmap(callback1,callback2) {
         .attr("transform", "rotate(0,180,180)");
 
     // interaction
-    Vis.zoom = d3.behavior.zoom()
-        .translate([0, 0])
-        .scale(1)
-        .scaleExtent([1, 8])
-        .on("zoom", zoomed);
 
     Vis.g_basemap2D = Vis.svgFlows.append("g").attr("class", "basemap");
 
     Vis.g_flows2D = Vis.svgFlows.append("g");
-
-    Vis.svgFlows.append("rect")
-        .attr("class", "overlay")
-        .attr("width", Vis.map_width)
-        .attr("height", Vis.map_height)
-        .call(Vis.zoom);
 
 
     // set the gradient color
