@@ -152,6 +152,12 @@ function initializeUI(callback){
 
     });
 
+    Vis.zoom = d3.behavior.zoom()
+        .translate([0, 0])
+        .scale(1)
+        .scaleExtent([1, 8])
+        .on("zoom", zoomed);
+    
     setTimeout(callback , 200);
 }
 
@@ -311,7 +317,6 @@ function initializeFlowmap(callback1,callback2) {
 
     //drawFlowsByYear(-1, checkboxStatue);
     //drawFlowsOn2DMap(1);
-
 
     setTimeout(callback1 , 200);
     setTimeout(callback2 , 200);
@@ -731,8 +736,6 @@ function drawFlowsByYear(year, checkboxStatue) {
     }
     */
 
-
-
 }
 
 function interplayPoint(p1, p2) {
@@ -853,7 +856,7 @@ function drawChord() {
 
 
     sorted = sorted.slice(0,25);
-    console.log("sorted", sorted);
+    //console.log("sorted", sorted);
 
 
     var matirx = [];
@@ -875,10 +878,6 @@ function drawChord() {
     //choose the top 25;
 
     dataShipment.forEach(function (d) {
-
-        //d.originNati  , destNati
-
-
         var i = countryList.indexOf(d.originNati);
         var j = countryList.indexOf(d.destNati);
 
@@ -886,12 +885,8 @@ function drawChord() {
 
             matirx[i][j] = matirx[i][j] + d.count;
         }
-
     });
-
-    console.log(matirx);
-
-
+    //console.log(matirx);
     var chord = d3.chord()
         .padAngle(0.05)
         .sortSubgroups(d3.descending);
