@@ -244,8 +244,7 @@ function initializeFlowmap(callback1,callback2) {
     Vis.g_basemap2D = Vis.svgFlows.append("g").attr("class", "basemap");
 
     Vis.g_flows2D = Vis.svgFlows.append("g");
-
-
+    
     // set the gradient color
     Vis.g_gradient = Vis.g_flows2D.append("defs")
         .append("linearGradient")
