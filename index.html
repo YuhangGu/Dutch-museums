@@ -1,191 +1,120 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<html>
+<html lang="en">
+
 <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="yuhang">
 
-    <link hrel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.css' rel='stylesheet'/>
-    <link href='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet'/>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    <script src='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js'></script>
-    <script src='https://api.mapbox.com/mapbox.js/plugins/arc.js/v0.1.0/arc.js'></script>
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.js'></script>
-    <script src="https://d3js.org/d3.v4.min.js"></script>
-    <script src='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js'></script>
-    <link href='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.css' rel='stylesheet' />
+    <title>Shipment Visualization</title>
 
-    <title>Dutch Musuems</title>
-
-    <style>
-        .filter-ctrl {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            z-index: 1;
-            width: 180px;
-        }
-
-        .filter-ctrl input[type=text] {
-            font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-            width: 100%;
-            border: 0;
-            background-color: #fff;
-            height: 40px;
-            margin: 0;
-            color: rgba(0,0,0,.5);
-            padding: 10px;
-            box-shadow: 0 0 0 2px rgba(0,0,0,0.1);
-            border-radius: 3px;
-        }
-    </style>
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/movementvis.css" rel="stylesheet">
+    <link href="css/bootstrap-slider.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 
-<body style="padding-left: 10px;">
+<body onload="migrationVisStart()">
+<div class="inner">
+    <h1>Shipment Flow Map</h1>
+    <!--nav class="nav nav-masthead">
+        <a class="nav-link active" href="#">Home</a>
+        <a class="nav-link" href="#">Features</a>
+        <a class="nav-link" href="#">Contact</a>
+    </nav-->
+</div>
 
-<div class="container-fluid main">
-    <div class="row">
-        <div class="row" id="toprow">
-            <div class="col-xs-12" align="center">
-                <h2>Dutch Musuems</h2>
-            </div>
-        </div>
-        <div class="col-xs-12 col-md-12">
-            <div class="row row-map" id="midrow">
-                <div class="col-xs-12 col-sm-12 col-md-12">
-                    <!-- Bootstrap-map-js -->
-                    <div id="maincontainer">
-                        <div id="map" style="height: 600px"></div>
+<div class="site-wrapper">
+    <div class="site-wrapper-inner">
+        <div class="cover-container">
+            <div class="row" id="contentrow">
+                <div id="checkboxcontainer">
+                    <div class="radio" name="port" id="chck0">
+                        <label class="statuslabel">
+                            <input type="radio" name="optionsRadios" value="option1" checked>
+                            Port
+                        </label>
+                    </div>
+                    <div class="radio" name="country" id="chck1">
+                        <label class="statuslabel">
+                            <input type="radio" name="optionsRadios" value="option2">
+                            Country
+                        </label>
+                    </div>
+                    <div class="radio" name="continent" id="chck2">
+                        <label class="statuslabel">
+                            <input type="radio" name="optionsRadios" value="option3">
+                            Continent
+                        </label>
                     </div>
                 </div>
-                <div class="row" id="bottomrow">
-                    <div class="col-xs-12 col-sm-12 col-md-12"></div>
+                <div id="migration-flowmap-2D"></div>
+                <div id="bottemCharts">
+                    <div id="barchartcontainer"></div>
+                    <div id="sliderbarcontainer">
+                        <input id="ex1" data-slider-id='ex1Slider' type="text"/>
+                    </div>
                 </div>
+                <div id="chrodChart"></div>
             </div>
         </div>
     </div>
 </div>
 
-<script type="text/javascript">
+<!-- D3 -->
+<script src="http://d3js.org/topojson.v0.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-axis.v1.min.js"></script>
+<script src="https://d3js.org/d3-array.v1.min.js"></script>
+<script src="https://d3js.org/d3-collection.v1.min.js"></script>
+<script src="https://d3js.org/d3-color.v1.min.js"></script>
+<script src="https://d3js.org/d3-format.v1.min.js"></script>
+<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+<script src="https://d3js.org/d3-time.v1.min.js"></script>
+<script src="https://d3js.org/d3-time-format.v2.min.js"></script>
+<script src="https://d3js.org/d3-scale.v1.min.js"></script>
+<script src="https://unpkg.com/d3-sankey@0"></script>
+<script src="https://cdn.rawgit.com/Neilos/bihisankey/master/bihisankey.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-path.v1.min.js"></script>
 
-    //for the map
-    /*
-    mapboxgl.accessToken = 'pk.eyJ1IjoiaXRjYWVybyIsImEiOiJjaWxuZmtlOHQwMDA2dnNseWMybHhvMXh0In0.DObc4iUf1_86LxJGF0RHog';
-    var map = new mapboxgl.Map({
-        container: 'map',
-        style: 'mapbox://styles/mapbox/light-v9',
-        center: [5.6495976, 52.3533156],
-        zoom: 6.5
-    });
-    map.setMinZoom(5);
-    map.setMaxZoom(15);
-
-    map.on('load', function () {
-
-        d3.json('data/musuem_list.geojson', function (err, data) {
-
-            map.addSource("musuems", {
-                "type": "geojson",
-                "data": data
-            });
-
-            map.addLayer({
-                "id": "musuem",
-                "type": "circle",
-                "source": "musuems",
-                "paint": {
-                    "circle-radius": 4,
-                    "circle-color": "#46b39d"
-                },
-                //"filter": ["==", "$type", "Point"],
-            });
+<!-- Three.js -->
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://rawgit.com/mrdoob/three.js/master/build/three.min.js"></script>
+<script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"></script>
+<script src="https://rawgit.com/mrdoob/three.js/master/examples/js/renderers/CSS3DRenderer.js"></script>
 
 
-            data.features.forEach(function(d,i){
+<!-- jQuery -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<!-- JQ UI -->
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
-                //console.log(d);
-                var symbol = d.properties['name'];
-                var layerID = 'poi-' + symbol;
+<!-- Bootstrap Core JavaScript -->
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-                // Add a layer for this symbol type if it hasn't been added already.
-                map.addLayer({
-                    "id": layerID,
-                    "type": "symbol",
-                    "source": "musuems",
-                    "layout": {
-                        "icon-allow-overlap": true,
-                        "text-field": symbol,
-                        "text-font": ["Open Sans Bold", "Arial Unicode MS Bold"],
-                        "text-size": 11,
-                        "text-transform": "uppercase",
-                        "text-letter-spacing": 0.05,
-                        "text-offset": [0, 1.5]
-                    },
-                    "paint": {
-                        "text-color": "#202",
-                        "text-halo-color": "#fff",
-                        "text-halo-width": 2
-                    },
-                    "filter": ["==", "icon", symbol]
-                });
+<!-- Metis Menu Plugin JavaScript -->
+<script src="vendor/metisMenu/metisMenu.min.js"></script>
 
 
-            });
+<!-- Custom Theme JavaScript -->
+<script src="js/movement.js"></script>
+<script src="js/dataloading.js"></script>
+<script src="js/movementVis2D.js"></script>
 
-        });
-    });
-
-    */
-
-    L.mapbox.accessToken = 'pk.eyJ1IjoiaXRjYWVybyIsImEiOiJjaWxuZmtlOHQwMDA2dnNseWMybHhvMXh0In0.DObc4iUf1_86LxJGF0RHog';
-    var map = L.mapbox.map('map', 'mapbox.streets');
-    map.setView([52.3533156, 5.6495976], 6.5);
-
-    // Build a marker from a simple GeoJSON object:
-
-    d3.json('data/musuem_list.geojson', function (err, data) {
-
-        data.features.forEach(function(d,i){
-
-
-            //console.log(d);
-
-            var lat = d.geometry.coordinates[0];
-            var log = d.geometry.coordinates[1];
-
-
-            var marker = L.mapbox.featureLayer({
-                type: 'Feature',
-                geometry: {
-                    type: 'Point',
-                    coordinates: [lat, log]
-                },
-                properties: {
-                    title: d.properties.name,
-                    'marker-color': '#46b39d'
-                }
-            }).addTo(map);
-
-            /*
-            marker.eachLayer(function(m) {
-                m.openPopup();
-            });
-            */
-
-        });
-
-
-
-    });
-
-
-    // Iterate over the featureLayer we've called "marker"
-    // and open its popup instead of clicking to trigger it.
-
-
-
-</script>
-
+<!-- slider -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.8.0/bootstrap-slider.js"></script>
 </body>
 </html>
