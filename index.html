@@ -1,614 +1,120 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<html>
+<html lang="en">
+
 <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>NewYork Bike</title>
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link href="css/c3.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.2/d3.js"></script>
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/c3/0.4.4/c3.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    <link href='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet'/>
-    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-    <script src="http://d3js.org/d3.geo.projection.v0.min.js" charset="utf-8"></script>
-    <script src='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js'></script>
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.css' rel='stylesheet'/>
-    <script src='https://api.mapbox.com/mapbox.js/plugins/arc.js/v0.1.0/arc.js'></script>
-    <script type="text/javascript" src="js/d3.v3.js"></script>
-    <script type="text/javascript" src="js/canvasjs.min.js"></script>
-    <script src='//d3js.org/d3.v3.min.js' charset='utf-8'></script>
-    <script src="https://d3js.org/d3-array.v1.min.js"></script>
-    <script src="https://d3js.org/d3-collection.v1.min.js"></script>
-    <script src="https://d3js.org/d3-color.v1.min.js"></script>
-    <script src="https://d3js.org/d3-format.v1.min.js"></script>
-    <script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
-    <script src="https://d3js.org/d3-time.v1.min.js"></script>
-    <script src="https://d3js.org/d3-time-format.v2.min.js"></script>
-    <script src="https://d3js.org/d3-scale.v1.min.js"></script>
-    <script src="https://d3js.org/d3.v4.min.js">
-    </script>
-    <script src="https://d3js.org/d3-color.v0.5.min.js">
-    </script>
-    <script src="https://d3js.org/d3-interpolate.v0.9.min.js">
-    </script>
-    <script src="https://d3js.org/d3-scale-chromatic.v0.3.min.js">
-    </script>
-    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no'/>
-    <script src="https://d3js.org/d3-transition.v1.min.js"></script>
+    <meta name="author" content="yuhang">
 
+    <title>Shipment Visualization</title>
 
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-        }
-
-        #map {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            height: 100%;
-            width: 100%;
-        }
-
-        .map-overlay {
-            font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-            position: absolute;
-            width: 25%;
-            top: 0;
-            left: 0;
-            padding: 10px;
-        }
-
-        .map-overlay .map-overlay-inner {
-            background-color: #fff;
-            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.20);
-            border-radius: 3px;
-            padding: 10px;
-            margin-bottom: 10px;
-        }
-
-        .map-overlay h2 {
-            line-height: 24px;
-            display: block;
-            margin: 0 0 10px;
-        }
-
-        .map-overlay .legend .bar {
-            height: 10px;
-            display: inline-block;
-        }
-
-        .map-overlay input {
-            background-color: transparent;
-            display: inline-block;
-            width: 100%;
-            position: relative;
-            margin: 0;
-            cursor: ew-resize;
-        }
-
-        .toolTip {
-            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-            position: absolute;
-            display: none;
-            width: auto;
-            height: auto;
-            background: none repeat scroll 0 0 white;
-            border: 0 none;
-            border-radius: 8px 8px 8px 8px;
-            box-shadow: -3px 3px 15px #888888;
-            color: black;
-            font: 12px sans-serif;
-            padding: 5px;
-            text-align: center;
-            opacity: 0.6;
-        }
-
-    </style>
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/movementvis.css" rel="stylesheet">
+    <link href="css/bootstrap-slider.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 
-<body style="padding-left: 10px;">
+<body onload="migrationVisStart()">
+<div class="inner">
+    <h1>Shipment Flow Map</h1>
+    <!--nav class="nav nav-masthead">
+        <a class="nav-link active" href="#">Home</a>
+        <a class="nav-link" href="#">Features</a>
+        <a class="nav-link" href="#">Contact</a>
+    </nav-->
+</div>
 
-<div class="container-fluid main">
-    <div class="row">
-        <div class="col-xs-12 col-md-12">
-
-            <div class="row" id="toprow">
-                <div class="col-xs-12" align="center">
-                    <h2>Newyork Bike Travel</h2>
-                </div>
-            </div>
-
-            <div class="row row-map" id="midrow">
-                <div class="col-xs-8 col-sm-8 col-md-8">
-                    <!-- Bootstrap-map-js -->
-                    <div id="maincontainer">
-                        <div id="map" style="height: 600px"></div>
-
-                        <!--div class='map-overlay top'>
-                            <div class='map-overlay-inner'>
-                                <h2>Newyork Bike Travel</h2>
-                                <label id='year'></label>
-                                <input id='slider' type='range' min='2004' max='2016' step='1' value='0'/>
-                            </div>
-                            <div class='map-overlay-inner'>
-                                <div id='legend' class='legend'>
-                                </div>
-                            </div>
-                        </div-->
-
+<div class="site-wrapper">
+    <div class="site-wrapper-inner">
+        <div class="cover-container">
+            <div class="row" id="contentrow">
+                <div id="checkboxcontainer">
+                    <div class="radio" name="port" id="chck0">
+                        <label class="statuslabel">
+                            <input type="radio" name="optionsRadios" value="option1" checked>
+                            Port
+                        </label>
+                    </div>
+                    <div class="radio" name="country" id="chck1">
+                        <label class="statuslabel">
+                            <input type="radio" name="optionsRadios" value="option2">
+                            Country
+                        </label>
+                    </div>
+                    <div class="radio" name="continent" id="chck2">
+                        <label class="statuslabel">
+                            <input type="radio" name="optionsRadios" value="option3">
+                            Continent
+                        </label>
                     </div>
                 </div>
-                <div class="col-xs-4 col-sm-4 col-md-4">
-                    <div class="row" id="middlerow">
-                        <div class="col-xs-12 col-sm-12 col-md-12" id="calendar"></div>
-                        <div class="col-xs-12 col-sm-12 col-md-12" id="barchart"></div>
-                        <div class="row" id = "pierow">
-                            <div class="col-xs-6 col-sm-6 col-md-6" id="piechart_gender"></div>
-                            <div class="col-xs-6 col-sm-6 col-md-6" id="piechart_style"></div>
-                        </div>
-
+                <div id="migration-flowmap-2D"></div>
+                <div id="bottemCharts">
+                    <div id="barchartcontainer"></div>
+                    <div id="sliderbarcontainer">
+                        <input id="ex1" data-slider-id='ex1Slider' type="text"/>
                     </div>
                 </div>
-
-                <div class="row" id="bottomrow">
-                    <div class="col-xs-12 col-sm-12 col-md-12"></div>
-                </div>
+                <div id="chrodChart"></div>
             </div>
-
         </div>
     </div>
 </div>
 
-
-<script type="text/javascript">
-
-
-    var max_tatal = 7274;
-
-    //for the map
-    mapboxgl.accessToken = 'pk.eyJ1IjoiaXRjYWVybyIsImEiOiJjaWxuZmtlOHQwMDA2dnNseWMybHhvMXh0In0.DObc4iUf1_86LxJGF0RHog';
-    var map = new mapboxgl.Map({
-        container: 'map',
-        style: 'mapbox://styles/mapbox/light-v9',
-        center: [-73.9598664, 40.7261194],
-        zoom: 10.8
-    });
-    map.setMinZoom(9);
-    map.setMaxZoom(15);
-
-    var popup = new mapboxgl.Popup({
-        closeOnClick: false,
-        closeButton: false
-    });
-
-    var maplayer_list = [];
-    var maplayerid_last = null;
-
-    //for the calendar
-    var svg_calendar = d3.select("#calendar").append("svg");
-    var arrayMonth = new Array(30);
-    var divTooltip_calendar = d3.select("body").append("div")
-            .attr("class", "toolTip");
-
-    //for the barchart
-    var svg_barChart = d3.select("#barchart").append("svg")
-            .attr('width', 800).attr('height', 200);
-    var matixDaliy = new Array(24);
-    var dateSelected = 0;
-
-    //for the pie
-    var svg_pie_gender = d3.select("#piechart_gender").append("svg").attr('width', 300).attr('height', 200);;
-
-    var svg_pie_style = d3.select("#piechart_style").append("svg").attr('width', 300).attr('height', 200);;
-
-    //----------processing-----------
-    createCalendar(drawCalendar);
-    //drawOneDay();
-
-
-    // not used now
-
-    function filterBy(year, mag, index) {
-        // Clear the popup if displayed.
-        popup.remove();
-
-        var filters = [
-            "all",
-            ["==", "year", year],
-            [">=", "seats_1", 0],
-            ["<", "seats_1", mag[0]]
-        ];
-        map.setFilter('flight-' + index, filters);
-        yearLabel.textContent = year;
-    }
-
-    map.on('load', function () {
-
-        d3.json('data/stationgeojson.json', function (err, data) {
-
-            //console.log("data", data);
-
-            map.addSource("national-park", {
-                "type": "geojson",
-                "data": data
-            });
-
-            map.addLayer({
-                "id": "stations",
-                "type": "circle",
-                "source": "national-park",
-                "paint": {
-                    "circle-radius": 2,
-                    "circle-color": "#B42222"
-                },
-                "filter": ["==", "$type", "Point"],
-            });
-
-        });
-
-        d3.json('data/biketrips_ingoing.json', function(err, data){
-
-
-            data.features.forEach(function (d){
-
-
-                var id_source = "idSource" + d.properties.time;
-                var id_layer = "idLayer" + d.properties.time;
-
-                maplayer_list.push(id_layer);
-
-                map.addSource(id_source , {
-                    "type": "geojson",
-                    "data": data
-                });
-
-                map.addLayer({
-                    "id": id_layer,
-                    "type": "line",
-                    "source": id_source,
-                    "layout": {
-                        "line-join": "round",
-                        "line-cap": "round"
-                    },
-                    "paint": {
-                        "line-color": "steelblue",
-                        "line-width": 0.1,
-                        "line-opacity" : 0.5
-                    }
-                });
-
-            });
-
-
-
-        } );
-
-    });
-
-
-    //------------functions-----------
-    function createCalendar(callback) {
-
-        for (var i = 0; i < 30; i++) {
-            arrayMonth[i] = 0;
-        }
-
-        d3.json('data/biketrips.json', function (err, data) {
-            //console.log(data);
-            data.forEach(function (d) {
-
-                var index = d[0] - 1;
-                arrayMonth[index] += d[2];
-            });
-
-        });
-
-        setTimeout(callback, 10);
-
-    }
-
-    function createDaliyBar(callback, callback1, date) {
-
-        // the date starts with 0
-        dateSelected = date;
-        d3.json('data/biketrips.json', function (err, data) {
-
-            data.forEach(function (d, i) {
-                if (d[0] == date) {
-                    //console.log("i", d[1], d[2]);
-                    var index = d[1];
-                    matixDaliy[index] = d;
-                }
-
-            });
-
-        });
-
-        setTimeout(callback, 20);
-        setTimeout(callback1, 20);
-    }
-
-    function drawBarChart() {
-
-        var width = 300;
-        var height = 200;
-        var padding = { top: 20 , right: 20, bottom: 20, left: 20 };
-
-        svg_barChart.selectAll('g').remove();
-
-        //console.log("matixDaliy", matixDaliy);
-        svg_barChart.attr("transform", "translate(" + 60 + "," + 0 + ")")
-
-        var g = svg_barChart.append('g').attr('class', "barchart")
-                .attr("transform", "translate(" + padding.left + "," + padding.bottom + ")");
-
-        var arrtemp = [];
-
-        matixDaliy.forEach(function (d) {
-            arrtemp.push(d[2]);
-        });
-
-        var maxday = d3.max(arrtemp);
-        //console.log('max',maxday);
-
-        if(maxday > max_tatal){
-
-            max_tatal = maxday;
-            console.log("max_tatal",max_tatal);
-        }
-
-        var scale_daliy = d3.scaleLinear().domain([0, max_tatal]).range([height - padding.bottom - padding.top, 0]);
-
-        matixDaliy.forEach(function (d, i) {
-            //console.log ("d", d[2]);
-            g.append("rect")
-                    .style("fill", "#81D8D0")
-                    .style("opacity", 0.8)
-                    .attr('width', 10)
-                    .attr('height', function () {
-                        return height - padding.top -padding.bottom - scale_daliy(d[2]);
-                    })
-                    .attr('x', (i-1) * 11 + padding.left )
-                    .attr('y', function () {
-                        return scale_daliy(d[2] - padding.top -padding.bottom)
-                    })
-                    .on("mouseover", function () {
-                        switchonMapLayer( i );
-                    })
-                    .on("mouseout", function (d) {
-                        //switchoffMapLayer(i);
-                    });
-        });
-
-        var xAixsList = ["0","1","2","3","4","5","6","7", "8","9","10","11",
-            "12","13","14","15","16","17","18","19","20","21","22","23"];
-
-        var scale_axis_x = d3.scaleBand().domain(xAixsList).range([0, 275]).padding(20);
-        var axis_x = d3.axisBottom(scale_axis_x);
-
-        svg_barChart.append('g')
-                .attr("class", "axis")
-                .attr("width", width)
-                .attr("height", 0)
-                .attr("transform", "rotate( 90)")
-                .attr("transform", "translate(" + (padding.left - 2)+"," +  (height - padding.top) + ")")
-                .call(axis_x);
-
-
-        var scale_axis_y = d3.scaleLinear().domain([0, max_tatal]).range([ height - padding.bottom - padding.top, 0]);
-        var axis_y = d3.axisLeft(scale_axis_y).ticks(10);
-        svg_barChart.append('g')
-                .attr("class", "axis")
-                .attr("width", 0)
-                .attr("height", height)
-                .attr("transform", "translate(" + padding.left +"," + padding.top + ")")
-                .call(axis_y);
-
-    }
-
-    function drawPieChart() {
-
-        svg_pie_gender.selectAll('g').remove();
-        svg_pie_style.selectAll('g').remove();
-        //console.log(matixDaliy);
-
-        var arrayGender = [0, 0, 0];
-        var arrayStyle = [0, 0, 0];
-
-        matixDaliy.forEach(function (d) {
-            arrayGender[0] = d[3] + arrayGender[0];
-            arrayGender[1] = d[4] + arrayGender[1];
-            arrayGender[2] = d[5] + arrayGender[2];
-            arrayStyle[0] = d[6] + arrayStyle[0];
-            arrayStyle[1] = d[7] + arrayStyle[1];
-            arrayStyle[2] = d[8] + arrayStyle[2];
-        });
-
-        //Width and height
-        var w = 200;
-        var h = 200;
-
-        var outerRadius = 60;
-        var innerRadius = 30; // 0 => a pie
-
-        var arc = d3.arc()
-                .innerRadius(innerRadius)
-                .outerRadius(outerRadius);
-
-        var pie = d3.pie();
-
-        var color = d3.scaleOrdinal(d3.schemeCategory10);
-
-        var g1 = svg_pie_gender.append('g')
-                .attr("transform", "translate(" + 50 + "," + 50 + ")");
-
-        var arcs = g1.selectAll("g.arc")
-                .data(pie(arrayGender))
-                .enter()
-                .append("g")
-                .attr("class", "arc")
-                .attr("transform", "translate(" + outerRadius + "," + outerRadius + ")");
-
-        arcs.append("path")
-                .attr("fill", function (d, i) {
-                    //console.log("d,i",i);
-                    return color(i);
-                })
-                .attr("d", arc);
-
-
-        arcs.append("text")
-                .attr("transform", function (d) {
-                    return "translate(" + arc.centroid(d) + ")";
-                })
-                .attr("text-anchor", "middle")
-                .attr("font-size",12 )
-                .text(function (d,i) {
-
-                    if(i ==0 ){
-                        return "male";
-                        //+ d.value;
-                    }
-                    if(i == 1 ){
-                        return "female";
-                        //+ d.value;
-                    }
-                    if(i == 2 ){
-                        return "not known" ;
-                        //+ d.value;
-                    }
-
-                });
-
-
-        var g2 = svg_pie_style.append('g')
-                .attr("transform", "translate(" + 0 + "," + 50 + ")");
-
-        var arcs2 = g2.selectAll("g.arc")
-                .data(pie(arrayStyle))
-                .enter()
-                .append("g")
-                .attr("class", "arc")
-                .attr("transform", "translate(" + outerRadius + "," + outerRadius + ")");
-
-        arcs2.append("path")
-                .attr("fill", function (d, i) {
-                    return color(i);
-                })
-                .attr("d", arc);
-
-
-        arcs2.append("text")
-                .attr("transform", function (d) {
-                    return "translate(" + arc.centroid(d) + ")";
-                })
-                .attr("text-anchor", "middle")
-                .attr("font-size", 12)
-                .text(function (d,i) {
-                    //return d.value;
-                    if(i ==0 ){
-                        return "local";
-                        //+ d.value;
-                    }
-                    if(i == 1 ){
-                        return "short term";
-                        //+ d.value;
-                    }
-                    if(i == 2 ){
-                        return " " ;
-                        //+ d.value;
-                    }
-                });
-
-
-    }
-
-    function drawCalendar() {
-
-        var g = svg_calendar.append('g').attr('class', 'calendar');
-        var max = d3.max(arrayMonth);
-
-        //console.log("arrayMonth",arrayMonth);
-
-        var color_calender = d3.scaleLinear().domain([0, max]).range(["white", "steelblue"]);
-
-        //console.log(arrayMonth);
-
-        arrayMonth.forEach(function (d, i) {
-            //console.log( d , i);
-            g.append('rect')
-                    .attr('width', 30)
-                    .attr('height', 20)
-                    .attr('x', function () {
-                        //console.log("i", i)
-                        return 30 + 31 * ((i + 3) % 7);
-                    })
-                    .attr('y', function () {
-                        return parseInt((i + 3) / 7) * 21;
-                    })
-                    .attr('fill', function () {
-                        return color_calender(d);
-                    })
-                    .on("mousemove", function () {
-                        divTooltip_calendar.style("left", d3.event.pageX + 10 + "px");
-                        divTooltip_calendar.style("top", d3.event.pageY - 25 + "px");
-                        divTooltip_calendar.style("display", "inline-block");
-                        var elements = document.querySelectorAll(':hover');
-                        //console.log("d",d);
-                        divTooltip_calendar.html("September " + "the " + (i + 1).toString() + " th" + "<br>"
-                                + "trips number: " + d.toString());
-
-                    })
-                    .on("mouseover", function () {
-                        drawOneDay(i+1);
-                    })
-                    .on("mouseout", function (d) {
-                        divTooltip_calendar.style("display", "none");
-                    });
-
-
-        });
-
-    }
-
-    function drawOneDay(date) {
-        createDaliyBar(drawBarChart, drawPieChart, date);
-    }
-
-    function switchonMapLayer( i ){
-        var layer_choosen = "idLayer" + i;
-
-        if(maplayerid_last == null)
-        {
-            maplayer_list.forEach(function(d){
-                map.setLayoutProperty(d, 'visibility', 'none');
-            });
-
-            maplayerid_last = layer_choosen;
-
-        }
-        else{
-            map.setLayoutProperty(maplayerid_last, 'visibility', 'none');
-            maplayerid_last = layer_choosen;
-        }
-
-        //console.log("layer_choosen",layer_choosen);
-        map.setLayoutProperty(layer_choosen, 'visibility', 'visible');
-
-    }
-
-    function switchoffMapLayer(i){
-        var layer_choosen = "idLayer" + i;
-        map.setLayoutProperty(layer_choosen, 'visibility', 'none');
-    }
-
-    //end
-</script>
-
+<!-- D3 -->
+<script src="http://d3js.org/topojson.v0.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-axis.v1.min.js"></script>
+<script src="https://d3js.org/d3-array.v1.min.js"></script>
+<script src="https://d3js.org/d3-collection.v1.min.js"></script>
+<script src="https://d3js.org/d3-color.v1.min.js"></script>
+<script src="https://d3js.org/d3-format.v1.min.js"></script>
+<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+<script src="https://d3js.org/d3-time.v1.min.js"></script>
+<script src="https://d3js.org/d3-time-format.v2.min.js"></script>
+<script src="https://d3js.org/d3-scale.v1.min.js"></script>
+<script src="https://unpkg.com/d3-sankey@0"></script>
+<script src="https://cdn.rawgit.com/Neilos/bihisankey/master/bihisankey.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-path.v1.min.js"></script>
+
+<!-- Three.js -->
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://rawgit.com/mrdoob/three.js/master/build/three.min.js"></script>
+<script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"></script>
+<script src="https://rawgit.com/mrdoob/three.js/master/examples/js/renderers/CSS3DRenderer.js"></script>
+
+
+<!-- jQuery -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<!-- JQ UI -->
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Metis Menu Plugin JavaScript -->
+<script src="vendor/metisMenu/metisMenu.min.js"></script>
+
+
+<!-- Custom Theme JavaScript -->
+<script src="js/movement.js"></script>
+<script src="js/dataloading.js"></script>
+<script src="js/movementVis2D.js"></script>
+
+<!-- slider -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.8.0/bootstrap-slider.js"></script>
 </body>
 </html>
